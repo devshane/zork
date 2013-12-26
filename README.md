@@ -14,10 +14,7 @@ source files, headers, and information.
 $ make
 ```
 
-## The history
-
-History of the C Implementation of Dungeon
-==========================================
+## History of the C Implementation of Dungeon
 
 This version of dungeon has been modified from FORTRAN to C.  The
 original was written in DEC FORTRAN, translated from MDL.  It was then
@@ -62,8 +59,7 @@ ZORK(tm) is a trademark of Infocom, Inc.  It is available for several
 popular personal computers as well as for the PDP-ll.
 
 
-SUMMARY
--------
+## Summary
 
    Welcome to Dungeon!
 
