@@ -66,6 +66,7 @@ dungeon: $(OBJS) dtextc.dat
 	$(CC) $(CFLAGS) -o zork $(OBJS) $(LIBS)
 
 install: zork dtextc.dat
+	mkdir -p $(BINDIR) $(LIBDIR)
 	cp zork $(BINDIR)
 	cp dtextc.dat $(LIBDIR)
 
