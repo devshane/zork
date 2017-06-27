@@ -6,6 +6,9 @@ BINDIR = /usr/games
 # Where to install the data file
 LIBDIR = /usr/games/lib
 
+# Where to install the man page
+MANDIR = /usr/share/man
+
 # The dungeon program provides a ``more'' facility which tries to
 # figure out how many rows the terminal has.  Several mechanisms are
 # supported for determining this; the most common one has been left
@@ -69,6 +72,7 @@ install: zork dtextc.dat
 	mkdir -p $(BINDIR) $(LIBDIR)
 	cp zork $(BINDIR)
 	cp dtextc.dat $(LIBDIR)
+	cp dungeon.6 $(MANDIR)/man6/
 
 clean:
 	rm -f $(OBJS) zork core dsave.dat *~
