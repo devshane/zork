@@ -4,7 +4,7 @@
 BINDIR = /usr/games
 
 # Where to install the data file
-LIBDIR = /usr/games/lib
+DATADIR = /usr/games/lib
 
 # Where to install the man page
 MANDIR = /usr/share/man
@@ -71,7 +71,7 @@ dungeon: $(OBJS) dtextc.dat
 install: zork dtextc.dat
 	mkdir -p $(BINDIR) $(LIBDIR) $(MANDIR)/man6
 	cp zork $(BINDIR)
-	cp dtextc.dat $(LIBDIR)
+	cp dtextc.dat $(DATADIR)
 	cp dungeon.6 $(MANDIR)/man6/
 
 clean:
@@ -81,7 +81,7 @@ dtextc.dat:
 	cat dtextc.uu1 dtextc.uu2 dtextc.uu3 dtextc.uu4 | uudecode
 
 dinit.o: dinit.c funcs.h vars.h
-	$(CC) $(CFLAGS) $(GDTFLAG) -DTEXTFILE=\"$(LIBDIR)/dtextc.dat\" -c dinit.c
+	$(CC) $(CFLAGS) $(GDTFLAG) -DTEXTFILE=\"$(DATADIR)/dtextc.dat\" -c dinit.c
 
 dgame.o: dgame.c funcs.h vars.h
 	$(CC) $(CFLAGS) $(GDTFLAG) -c dgame.c
