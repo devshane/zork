@@ -127,3 +127,7 @@ to change the format of the database file.  Andre Srinivasan
 (andre@cs.pitt.edu) help test it.  Jonathan Mark
 (uunet!microsoft!jonm) made it work under MS-DOS and Microsoft C.
 
+## Notes
+
+This version of the game was made with a gcc compiler running Cygwin, a Linux-type environment running on windows. The Makefile was edited from the original to use 'lcurses' libraries, instead of 'ltermcap' libraries. The resulting .exe file ran on both windows command prompt and Cygwin (xterm).
+
