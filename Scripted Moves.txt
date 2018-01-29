@@ -1,0 +1,963 @@
+#                                                           November 08, 2017 #
+#                                                                             #
+# This document holds some useful, scripted moves. These are designed for     #
+# seasoned Zorkers only! They have been fully tested with the PC version of   #
+# Dungeon created 11-MAR-91.                                                  #
+#                                                                             #
+# The syntax for these scripts has been derived from the help menu inside the # 
+# game. Commas can be used to string together moves. key words were chosen    #
+# based on what the parser `liked' at the time. Carriage returns are used to  #
+# initiate specific lines of script. A line must end with a carriage return   #
+# for the program to read it! Line length is also important because the       #
+# program will determine the length of your command window. These scripts     #
+# were made with an 80 character length window in mind.                       #
+#                                                                             #
+# These scripts can be customized for personal preference and use. Please feel#
+# free to edit, change, or add to this document as you see fit! And as always,#
+#                                 ENJOY!                                      #
+#                                                                             #
+# DIRECTIONS:                                                                 #
+#   1. Select the section of text you wish to utilize in Zork                 #
+#   2. Copy the selected text to your clipboard. Make sure you copy the first #
+#      blank line underneith script text! Don't copy the `END OF SCRIPT' line.#
+#   3. Start zork in a command window                                         #
+#   3. Paste into your command window and watch your automated Zorker fly!    #
+#                                                                             #
+# (Testing of the scripts was done with version V2.7A of Dungeon)             #
+
+
+
+
+
+#---------From Rags to Riches-------------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# This script contains what is considered the basics of the game. It contains #
+# spoilers for the Bank of Zork puzzel and the Studio puzzel. As a reminder,  #
+# use this script only if you have solved it yourself.                        #
+#                                                                             #
+# Useful tools and their resting place                                        #
+#    - Bottle      Living Room                                                #
+#    - Brick (C4)  Living Room                                                #
+#    - Garlic      Living Room                                                #
+#    - Lunch       Living Room                                                #
+#    - Sack        Living Room                                                #
+#                                                                             #
+# Treasure and their resting place                                            #
+#    - Bills       Living Room Case                                           #
+#    - Painting    Living Room Case                                           #
+#    - Portrait    Living Room Case                                           #
+#                                                                             #
+# Inventory                                                                   #
+#    - Egg                                                                    #
+#    - Lamp                                                                   #
+#    - Sword                                                                  #
+#                                                                             #
+# Your score will be 91 in 96 moves and you will have the rank of Novice      #
+# Adventurer.                                                                 #
+
+brief,open box,read leaflet,n,n,u,get egg,open egg,d,w,e,open window,w,
+get sack,open sack,get lunch,get garlic,get bottle,w,drop all, get lamp,e
+turn on lamp,u,get all,d,turn off lamp,w,drop all,read news,drop news
+move rug,open trap door,turn on lamp,d,s,s,get painting,s,u,turn off lamp,w
+open case,put painting in case,open trap door,turn on lamp,d,s,s
+w,ne,e,s,get portrait,n,walk through curtain,walk through south wall
+walk through curtain,get bills,walk through north wall,drop bills
+drop portrait,e,e,get all,walk through curtain,s,s,s,drop bills,u
+turn off lamp,w,put portrait in case,open trap door,turn on lamp,d,s,s,s
+get bills,u,turn off lamp,w,put bills in case,get sword,open trap door
+get egg,get rope,turn on lamp,d,e,kill troll with sword
+kill troll with sword
+kill troll with sword
+
+### END OF SCRIPT ####
+
+
+
+
+
+#---------Temple, Torch, Trident and Trunk------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# This script is meant to be used immediately after the first script. If you  #
+# choose to run this script by itself, you must defeat the troll and have if  #
+# your invintory the egg, lamp, rope, and sword.                              #
+#                                                                             #
+# This script includes major puzzle spoilers includeing:                      #
+#    - How to open the Land of Living Dead                                    #
+#    - A word to get to the Thief's Hide-Out                                  #
+#    - Allusion to what the West Temple Room is for                           #
+#    - How to get through the reservior                                       #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Rope        Dome Room (the thief may move this)                        #
+#    - Wrench      Flood Control Room #3  (the thief may move this)           #
+#    - Guidebook   West Temple                                                #
+#    - Hand-pump   West Temple                                                #
+#    - Screwdriver West Temple                                                #
+#    - Bell        Entrance to Hades  (the thief may move this)               #
+#    - Bible       Entrance to Hades  (the thief may move this)               #
+#    - Candles     Entrance to Hades  (the thief may move this)               #
+#    - Matchbook   Living Room                                                #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Chalice     Living Room Case                                           #
+#    - Grail       Living Room Case                                           #
+#    - Trident     Living Room Case                                           #
+#    - Trunk       West Temple                                                #
+#    - Egg         Hide-Out                                                   #
+#                                                                             #
+# Inventory                                                                   #
+#    - Lamp                                                                   #
+#    - Torch                                                                  #
+#                                                                             #
+#                                                                             #
+# You should have 101 more points in 96 more moves and you will have the rank #
+# of Junior Adventurer.                                                       #
+
+drop sword,n,n,w,e,tie rope to rail,d,turn off lamp,get torch,d,e,n,n,d,u,e,n
+read match,read book,n,get screwd,get wrench,press yellow button,w,s
+turn bolt with wrench,drop wrench,s,nw,n,get trunk,n,get pump,n,get trident
+u,n,rub mirror,n,n,u,treasure,drop egg,get chalice,temple,drop all
+get lamp,get torch,w,get grail,e,sw,rub mirror,e,d,get trident,u,n,rub mirror
+n,n,u,drop trident,e,douse candles,read book,w,get match,get bell,w,e,s,d
+light match,light candles with match,exorcise,drop bell,drop book,drop candles
+u,n,n,u,get trident,get chalice,e,pray,e,w,e,w,w,put trident in case
+put grail in case,put chalice in case,drop match
+
+### END OF SCRIPT ####
+
+
+
+
+
+#---------Figurine and Bracelet-----------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# This script will help you get the figurine and bracelet. It solves the bat  #
+# puzzel for you as well as the Gas Room puzzel. It requires you to be in the #
+# Living Room and that it contains the garlic. You need the lamp and the torch#
+# for this script to succeed.                                                 #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Garlic      Bat Room  (the thief may move this)                        #
+#    - Hand-pump   Living Room                                                #
+#    - Lamp        Living Room                                                #
+#    - Screwdriver Living Room                                                #
+#    - Guidebook   West Temple                                                #
+#                                                                             #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Bracelet    Living Room Case                                           #
+#    - Figurine    Living Room Case                                           #
+#    - Trunk       Living Room Case                                           #
+#    - Torch       Living Room                                                #
+#                                                                             #
+# Inventory                                                                   #
+#    - (empty handed)                                                         #
+#                                                                             #
+# You should have 18 more points in 50 more moves with the rank of Junior     #
+# Adventurer!                                                                 #
+
+get garlic,open trap door,d,e,n,n,d,n,n,n,u,n,rub mirror,n,n,u,get all
+drop book,w,e,sw,rub mirror,w,w,n,nw,w,drop garlic,get figurine,e,s,ne,n,w
+drop torch,turn on lamp,d,get bracelet,u,turn off lamp,get torch,e,s,w,s,d,u
+put bracelt in case,put figurine in case,put trunk in case,drop all
+
+### END OF SCRIPT ####
+
+
+
+
+
+#---------Variation of the previous three scripts-----------------------------#
+# Here is a variation on the first three scripts merged. It should work some  #
+# of the time. The variables are the troll and the theif. You will have 218   #
+# points in 243 moves with a rank of Junior Adventurer.                       #
+# This script accounts for a total of 35.90% progress in the game!            #
+
+
+brief,open box,read leaflet,n,n,u,get egg,open egg,d,w,e,open window,w,
+get sack,open sack,get lunch,get garlic,get bottle,w,drop all, get lamp,e
+turn on lamp,u,get all,d,turn off lamp,w,drop all,read news,drop news
+move rug,open trap door,turn on lamp,d,s,s,get painting,s,u,turn off lamp,w
+open case,put painting in case,open trap door,turn on lamp,d,s,s
+w,ne,e,s,get portrait,n,walk through curtain,walk through south wall
+walk through curtain,get bills,walk through north wall,drop bills
+drop portrait,e,e,get all,walk through curtain,s,s,s,drop bills,u
+turn off lamp,w,put portrait in case,open trap door,turn on lamp,d,s,s,s
+get bills,u,turn off lamp,w,put bills in case,get sword,open trap door
+get egg,get rope,turn on lamp,d,e,kill troll with sword
+kill troll with sword
+kill troll with sword
+drop sword,n,n,w,e,tie rope to rail,d,turn off lamp,get torch,d,e,n,n,d,u,e,n
+read match,read book,n,get screwd,get wrench,press yellow button,w,s
+turn bolt with wrench,drop wrench,s,nw,n,get trunk,n,get pump,n,get trident
+u,n,rub mirror,n,n,u,treasure,drop egg,get chalice,temple,drop all
+get lamp,get torch,w,get grail,e,sw,rub mirror,e,d,get trident,u,n,rub mirror
+n,n,u,drop trident,e,douse candles,read book,w,get match,get bell,w,e,s,d
+light match,light candles with match,exorcise,drop bell,drop book,drop candles
+u,n,n,u,get trident,get chalice,e,pray,e,w,e,w,w,put trident in case
+put grail in case,put chalice in case,drop match
+get garlic,open trap door,d,e,n,n,d,n,n,n,u,n,rub mirror,n,n,u,get all
+drop book,w,e,sw,rub mirror,w,w,n,nw,w,drop garlic,get figurine,e,s,ne,n,w
+drop torch,turn on lamp,d,get bracelet,u,turn off lamp,get torch,e,s,w,s,d,u
+put bracelt in case,put figurine in case,put trunk in case,drop all
+
+### END OF SCRIPT ####
+
+
+
+
+
+#---------SPECIAL NOTE--------------------------------------------------------#
+#                                                                             #
+# Scrips past this point should be written with the following requirements:   #
+#    1. Player shall be empty-handed                                          #
+#    2. Player shall start in the Living Room                                 #
+#    3. The Round Room shall be solved.                                       #
+#                                                                             #
+
+
+
+
+
+#---------Engravings Cave and Beyond------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, MAJOR SPOILER ALERT!!!                         #
+#                                                                             #
+# This script contains MAJOR spoilers and puzzle solutions to the Riddle Room,#
+# Tea Room, Pool Room, and Machine Room. The major benefit for this script is #
+# the Round Room will not spin randomly. Scripts run after this script will   #
+# be able to use the Round Room to get around. Some might argue to do this    #
+# script first, which would probably be better. I still think getting the     #
+# torch is a major game changer and should be done befor this script.         #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Bottle      Well Bottom (the thief may move this)                      #
+#    - EAT-ME Cake Eaten/Used                                                 #
+#    - Blue Cake   Eaten/Used                                                 #
+#    - Red Cake    Pool Room (bug: should have evaporated or used)            #
+#    - Orange Cake Tea Room (the thief may move this)                         #
+#    - Robot       Machine Room Closet                                        #
+#    - Lamp        Living Room                                                #
+#    - Shovel      Living Room                                                #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Necklace    Living Room Case                                           #
+#    - Sphere      Living Room Case                                           #
+#    - Spices      Living Room Case                                           #
+#    - Torch       Living Room                                                #
+#                                                                             #
+# Inventory                                                                   #
+#    - (empty handed)                                                         #
+#                                                                             #
+# You will have 32 more points in 83+ moves with a rand of Adventurer.        #
+#                                                                             #
+
+get torch, get bottle,get lamp,d,e,n,e
+
+### !!!GET TO ENGRAVINGS CAVE!!! ###
+
+read engravings,se,well,e,get necklace,e,read wall,board,open bottle
+put water in bucket,disembark,read wall,e,get all,eat eatme cake,e,get flask
+read red cake with flask,read orange cake with flask
+read blue cake with flask,drop flask,throw red cake,get spices,w
+eat blue cake,drop orange cake,nw,read paper,drop paper,tell robot,e,e
+tell robot,push triangle button,tell robot,s,s,get sphere
+tell robot,lift cage,get sphere,n,w
+
+### !!!GET TO TEA ROOM!!! ###
+
+w,board,put water in bottle,close bottle,disembark,drop bottle,w,w,d,n
+open box,get violin,w,w,w,u,put spices in case,put necklace in case
+put sphere in case, put violin in case,drop all,save
+
+### END OF SCRIPT ####
+
+### VARIATION OF PREVIOUS SCRIPT ###
+
+get torch, get bottle,get lamp,d,e,n,e,e,s,e
+read engravings,se,well,e,get necklace,e,read wall,board,open bottle
+put water in bucket,disembark,read wall,e,get all,eat eatme cake,e,get flask
+read red cake with flask,read orange cake with flask
+read blue cake with flask,drop flask,throw red cake,get spices,w
+eat blue cake,drop orange cake,nw,read paper,drop paper,tell robot,e,e
+tell robot,push triangle button,tell robot,s,s,get sphere
+tell robot,lift cage,get sphere,n,w,s
+w,board,put water in bottle,close bottle,disembark,drop bottle,w,w,d,n
+open box,get violin,w,w,w,u,put spices in case,put necklace in case
+put sphere in case, put violin in case,drop all,save
+
+### END OF SCRIPT ####
+
+#---------Gold Coffin of Ramses II--------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# This script gets a bit scary as the thief has about an 80% chance of        #
+# ruining it. This utilizes previous knowledge of the Temple Alter and solves #
+# the river and rainbow puzzles.                                              #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Hand-Pump   Dam Base                                                   #
+#    - Sharp Stick Falls View                                                 #
+#    - Magic Boat  Sandy Beach                                                #
+#    - Shovel      Sandy Beach                                                #
+#    - Buoy        Sandy Beach                                                #
+#    - Lamp        Living Room                                                #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Bar         Living Room Case                                           #
+#    - Emerald     Living Room Case                                           #
+#    - Pot of Gold Living Room Case                                           #
+#    - Statue      Living Room Case                                           #
+#    - Torch       Living Room                                                #
+#                                                                             #
+# Inventory                                                                   #
+#    - (empty handed)                                                         #
+#                                                                             #
+# You will have 68 points in 76 more moves and have the rank of Hacker.       # 
+#                                                                             #
+
+get torch,get lamp,d,e,n,n,w,nw,get coffin,u,n,get wire,e,n,n,n,u,n
+rub mirror,n,n,u,e,pray,e,w,e,w,w,put coffin in case,drop wire,get pump
+d,e,n,e,ne,ne
+echo
+get bar,e,e,get shovel,nw,s,w,s,nw,e,d,inflate boat with pump,drop pump
+put stick in boat,board,launch,d,d,d,get buoy,w,disembark,get stick,open buoy
+get emerald,dig with shovel,dig with shovel,dig with shovel,dig with shovel
+get statue,drop shovel,drop buoy,s,s,wave stick,drop stick,e,e,get pot,se,u
+u,w,w,n,e,w,w,put pot in case,put statue in case, put emerald in case
+put bar in case,drop all
+
+### END OF SCRIPT ####
+
+
+
+
+
+#---------The Maze Runner-----------------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# This script gets a bit scary as the thief has about an 80% chance of        #
+# ruining it. This utilizes previous knowledge of the Temple Alter and solves #
+# the river and rainbow puzzles. A peculiarity exists within this script:     #
+# if the guidbook is not in the West Temple Room, the script may stop.        #
+# However, this theory has yet to be tested.                                  #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Keys        Belwo Grate                                                #
+#    - Knife       Living Room                                                #
+#    - Lamp        Living Room                                                #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Bauble      Living Room Case                                           #
+#    - Canary      Living Room Case                                           #
+#    - Card        Living Room Case                                           #
+#    - Egg         Living Room Case                                           #
+#    - Torch       Living Room                                                #
+#                                                                             #
+# Inventory                                                                   #
+#    - (empty handed)                                                         #
+#                                                                             #
+# You will have 33 points in 176 more moves and have the rank of Hacker.      # 
+#                                                                             #
+
+get torch,get lamp,get knife,d,e,s,e,w,u,get coins,get keys,sw,u,e,ne
+unlock grate with keys,drop keys,open grate,u,sw,w,w,put coins in case,e,e
+e,d,sw,d,e,n,e,s,ne,odysseus,u
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+get egg,get canary,temple,get book,treasure,e,read paper,drop paper,d
+push east wall,s,s,w,push south wall,e,n,n,n,w,push south wall
+push south wall,e,e,e,push south wall,get card,push south wall
+push west wall,e,e,e,n,push west wall,s,w,w,n,n,e,push south wall,w,s
+push east wall,n,e,push south wall,w,n,n,n,n,push east wall,w,s,s,s,e,e
+n,n,push west wall,n,w,push south wall,push south wall,w,s,s,e,e,n
+push west wall,s,w,push north wall,e,n,push west wall,s,w,push north wall
+push north wall,w,n,u,w,d,n,e,put card in case,put egg in case,drop book
+e,e,n,n,wind canary,get bauble,w,e,w,w,put canary in case
+put bauble in case,drop all
+
+### END OF SCRIPT ###
+
+
+
+
+
+#---------Diamond in the Rough------------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# Now that the thief is out of the way, we can basically move around the map  #
+# as we please. This script focuses on obtaining the diamond and spoils the   #
+# Mine puzzel. The only requirement for this script to work is the screwdriver#
+# to be in the Living Room to pick up.                                        #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Screwdriver Machine Room (Mine)                                        #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Diamond     Living Room Case                                           #
+#                                                                             #
+# Inventory                                                                   #
+#    - (empty handed)                                                         #
+#                                                                             #
+# You will have 26 points in 77 more moves and have the rank of Hacker.       # 
+#                                                                             #
+
+get lamp,get torch,get screwd,d,e,n,n,d,n,n,n,u,n,w,w,n,ne
+put screwd in basket,n,ne,n,ne,nw,d,d,ne,get coal,s,u,u,e,e,s
+put coal in basket,turn on lamp,put lamp in basket,lower basket,n,ne,n,ne
+nw,d,d,s,drop all,sw,get lamp,get screwd,get coal,e,open lid,put coal in lid
+close lid,turn switch with screwd,open lid,get diamond,drop screwd,nw
+put diamond in basket,put lamp in basket,ne,get torch,n,u,u,e,e,s
+raise basket,get lamp,turn lamp off,get diamond,w,s,d,u,put diamond in case
+drop all
+
+### END OF SCRIPT ###
+
+
+
+
+
+#---------Classic Macgyver----------------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+# One of the last things to do is to solve the Volcano. The items required    #
+# are the guidbook, matchbook, clay brick, wire, lamp, and torch. These items #
+# should be located in the Living Room. This script spoils the ballon puzzel  #
+# and the Glacier puzzel. You have been warned.                               #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#    - Guidebook   Used in Ballon Receptacle                                  #
+#    - Clay Brick  Used in Crown Room                                         #
+#    - Wire Coil   Used for the Brick in Crown Room                           #
+#    - Ballon      Volcano Bottom (re-usable)                                 #
+#                                                                             #
+# Treasures and resting location:                                             #
+#    - Crown       Living Room Case                                           #
+#    - Gold Coin   Living Room Case                                           #
+#    - Ruby        Living Room Case                                           #
+#    - Stamp       Living Room Case                                           #
+#    - Torch       Living Room Case (burnt out)                               #
+#                                                                             #
+# Inventory                                                                   #
+#    - (empty handed)                                                         #
+#                                                                             #
+# You will have 33 points in 79 more moves and have the rank of Master.       # 
+#                                                                             #
+
+get torch,get lamp,get brick,get wire,get match,get book,d,e,n,n,w,nw,u
+turn on lamp,throw torch at glacier,w,get ruby,w,s,board,open recept
+put book in recept,light match,light book with match,wait,wait,land
+disembark,tie rope to hook,get coin,s,open purple book,get stamp,n,board
+untie rope,wait,wait,wait,land,disembark,tie rope to hook,s
+put brick in hole,put wire in brick,light match,light wire with match
+n,s,read card,get crown,n,board,untie rope,close recept,wait,wait,wait
+wait,wait,disembark,drop card,n,w,s,n,get torch,e,s,s,w,w,u,turn off lamp
+put crown in case,put coin in case,put ruby in case,put stamp in case
+put torch in case,close case
+
+### END OF SCRIPT ###
+
+
+
+
+
+#---------95% of the Game-----------------------------------------------------#
+#                                                                             #
+#                  !!!WARNING, ah, well, you know the drill                   #
+#                                                                             #
+# All previous scripts have been compiled in one long script. It has been     #
+# tested without a failure ever. For reference, we are running V2.7A on       #
+# Windows 7. The scripts have been tested in both the command prompt and      #
+# Cygwin (Linyx -type environment on Windows).                                #
+#                                                                             #
+# Usefull items and resting location:                                         #
+#        (see previous script descriptions)                                   #
+#                                                                             #
+# Treasures and resting location:                                             #
+#        (all trophies in case)                                               #
+#                                                                             #
+# Inventory                                                                   #
+#    - Lamp                                                                   #
+#    - Matchbook                                                              #
+#                                                                             #
+# You will have a score of 555 points in 714 moves and have the rank of       #
+# Master.                                                                     #
+#                                                                             #
+
+brief,open box,read leaflet,n,n,u,get egg,open egg,d,w,e,open window,w,
+get sack,open sack,get lunch,get garlic,get bottle,w,drop all, get lamp,e
+turn on lamp,u,get all,d,turn off lamp,w,drop all,read news,drop news
+move rug,open trap door,turn on lamp,d,s,s,get painting,s,u,turn off lamp,w
+open case,put painting in case,open trap door,turn on lamp,d,s,s
+w,ne,e,s,get portrait,n,walk through curtain,walk through south wall
+walk through curtain,get bills,walk through north wall,drop bills
+drop portrait,e,e,get all,walk through curtain,s,s,s,drop bills,u
+turn off lamp,w,put portrait in case,open trap door,turn on lamp,d,s,s,s
+get bills,u,turn off lamp,w,put bills in case,get sword,open trap door
+get egg,get rope,turn on lamp,d,e,kill troll with sword
+kill troll with sword
+kill troll with sword
+drop sword,n,n,w,e,tie rope to rail,d,turn off lamp,get torch,d,e,n,n,d,u,e,n
+read match,read book,n,get screwd,get wrench,press yellow button,w,s
+turn bolt with wrench,drop wrench,s,nw,n,get trunk,n,get pump,n,get trident
+u,n,rub mirror,n,n,u,treasure,drop egg,get chalice,temple,drop all
+get lamp,get torch,w,get grail,e,sw,rub mirror,e,d,get trident,u,n,rub mirror
+n,n,u,drop trident,e,douse candles,read book,w,get match,get bell,w,e,s,d
+light match,light candles with match,exorcise,drop bell,drop book,drop candles
+u,n,n,u,get trident,get chalice,e,pray,e,w,e,w,w,put trident in case
+put grail in case,put chalice in case,drop match
+get garlic,open trap door,d,e,n,n,d,n,n,n,u,n,rub mirror,n,n,u,get all
+drop book,w,e,sw,rub mirror,w,w,n,nw,w,drop garlic,get figurine,e,s,ne,n,w
+drop torch,turn on lamp,d,get bracelet,u,turn off lamp,get torch,e,s,w,s,d,u
+put bracelt in case,put figurine in case,put trunk in case,drop all
+get torch, get bottle,get lamp,d,e,n,e,e,s,e
+read engravings,se,well,e,get necklace,e,read wall,board,open bottle
+put water in bucket,disembark,read wall,e,get all,eat eatme cake,e,get flask
+read red cake with flask,read orange cake with flask
+read blue cake with flask,drop flask,throw red cake,get spices,w
+eat blue cake,drop orange cake,nw,read paper,drop paper,tell robot,e,e
+tell robot,push triangle button,tell robot,s,s,get sphere
+tell robot,lift cage,get sphere,n,w,s
+w,board,put water in bottle,close bottle,disembark,drop bottle,w,w,d,n
+open box,get violin,w,w,w,u,put spices in case,put necklace in case
+put sphere in case, put violin in case,drop all,save
+get torch,get lamp,d,e,n,n,w,nw,get coffin,u,n,get wire,e,n,n,n,u,n
+rub mirror,n,n,u,e,pray,e,w,e,w,w,put coffin in case,drop wire,get pump
+d,e,n,e,ne,ne
+echo
+get bar,e,e,get shovel,nw,s,w,s,nw,e,d,inflate boat with pump,drop pump
+put stick in boat,board,launch,d,d,d,get buoy,w,disembark,get stick,open buoy
+get emerald,dig with shovel,dig with shovel,dig with shovel,dig with shovel
+get statue,drop shovel,drop buoy,s,s,wave stick,drop stick,e,e,get pot,se,u
+u,w,w,n,e,w,w,put pot in case,put statue in case, put emerald in case
+put bar in case,drop all
+get torch,get lamp,get knife,d,e,s,e,w,u,get coins,get keys,sw,u,e,ne
+unlock grate with keys,drop keys,open grate,u,sw,w,w,put coins in case,e,e
+e,d,sw,d,e,n,e,s,ne,odysseus,u
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+get egg,get canary,temple,get book,treasure,e,read paper,drop paper,d
+push east wall,s,s,w,push south wall,e,n,n,n,w,push south wall
+push south wall,e,e,e,push south wall,get card,push south wall
+push west wall,e,e,e,n,push west wall,s,w,w,n,n,e,push south wall,w,s
+push east wall,n,e,push south wall,w,n,n,n,n,push east wall,w,s,s,s,e,e
+n,n,push west wall,n,w,push south wall,push south wall,w,s,s,e,e,n
+push west wall,s,w,push north wall,e,n,push west wall,s,w,push north wall
+push north wall,w,n,u,w,d,n,e,put card in case,put egg in case,drop book
+e,e,n,n,wind canary,get bauble,w,e,w,w,put canary in case
+put bauble in case,drop all
+get lamp,get torch,get screwd,d,e,n,n,d,n,n,n,u,n,w,w,n,ne
+put screwd in basket,n,ne,n,ne,nw,d,d,ne,get coal,s,u,u,e,e,s
+put coal in basket,turn on lamp,put lamp in basket,lower basket,n,ne,n,ne
+nw,d,d,s,drop all,sw,get lamp,get screwd,get coal,e,open lid,put coal in lid
+close lid,turn switch with screwd,open lid,get diamond,drop screwd,nw
+put diamond in basket,put lamp in basket,ne,get torch,n,u,u,e,e,s
+raise basket,get lamp,turn lamp off,get diamond,w,s,d,u,put diamond in case
+drop all
+get torch,get lamp,get brick,get wire,get match,get book,d,e,n,n,w,nw,u
+turn on lamp,throw torch at glacier,w,get ruby,w,s,board,open recept
+put book in recept,light match,light book with match,wait,wait,land
+disembark,tie rope to hook,get coin,s,open purple book,get stamp,n,board
+untie rope,wait,wait,wait,land,disembark,tie rope to hook,s
+put brick in hole,put wire in brick,light match,light wire with match
+n,s,read card,get crown,n,board,untie rope,close recept,wait,wait,wait
+wait,wait,disembark,drop card,n,w,s,n,get torch,e,s,s,w,w,u,turn off lamp
+put crown in case,put coin in case,put ruby in case,put stamp in case
+put torch in case,close case
+
+
+
+
+
+#---------Appendix------------------------------------------------------------#
+#                                                                             #
+# List of treasure and their points. There are a total of 29 treasures in     #
+# version of the game. (V2.7A)                                                #
+#                                                                             #
+# TREASURE       PICKUP  +  CASE  =        LOCATION                           #
+# ========================================================================    #
+# Crown              15       10     25    Box Room                           #
+# Gold Card          15       10     25    Puzzle Room                        #
+# Zorkmid Bills      10       15     25    Vault                              #
+# Ruby               15        8     23    Ruby Room                          #
+# Statue             10       13     23    Sandy Beach                        #
+# Tunk of Jewels     15        8     23    Reservoir                          #
+# Gold Zorkmid Coin  10       12     22    Ledge (Volcano)                    #
+# Platinum Bar       12       10     22    Loud Room                          #
+# Chalice            10       10     20    Thief's Hide-Out                   #
+# Pot of Gold        10       10     20    Beach (End of Rainbow)             #
+# Torch              14        6     20    Torch Room                         #
+# Violin             10       10     20    Round Room                         #
+# Diamond            10        6     16    Machine Room (Mine)                #
+# Bag of Coins       10        5     15    Maze Room #5                       #
+# Emereald            5       10     15    Frigid River #4                    #
+# Portrait           10        5     15    Office                             #
+# Trident             4       11     15    Atlantis Room                      #
+# Necklace            9        5     14    Closet (befor Well Bottom)         #
+# Stamp               4       10     14    Library                            #
+# Sphere              6        6     12    Closet (Machine Room, Well)        #
+# Painting            4        7     11    Gallary                            #
+# Coffin              3        7     10    Egyptian Room                      #
+# Egg                 5        5     10    Branch                             #
+# Figurine            5        5     10    Bat Room                           #
+# Tin of Spices       5        5     10    Pool Room                          #
+# Bracelet            5        3      8    Gas Room                           #
+# Canary              6        2      8    Thief's Hide-Out                   #
+# Grail               2        5      7    Grail Room                         #
+# Bauble              1        1      2    Forrest                            #
+# ========================================================================    #
+#           Totals: 240  +   220  =  460 points                               #
+#                                                                             #
+#                                                                             #
+# List of points gained by exploration. Getting to the Land of Living Dead is #
+# worth the most and definately the hardest part of the game to figure out    #
+# since most internet walkthroughs have been using later versions of the      #
+# game, which add 7 more rooms 3 more treasures, and 3 new puzzels.           #
+#                                                                             #
+# ROOM              POINTS                                                    #
+# ========================                                                    #
+# Kitchen               10                                                    #
+# Cellar                25                                                    #
+# E/W Passage            5                                                    #
+# Strange Passage       10                                                    #
+# Thief's Hide-Out      25                                                    #
+# Machine Room          10                                                    #
+# Top of Well           10                                                    #
+# Land of Living Dead   30                                                    #
+# ========================                                                    #
+# Total:               125                                                    #
+#                                                                             #
+# ========================================================================    #
+# Grand-Total:                       585 points                               #
+#                                                                             #
+#                                                                             #
+# In the fasion of the Game Creators, the end game is intentionally left off  #
+# of this document. Have fun puzzeling                                        #
+#                                                                             #
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#                                                                             #
+#                       !!!JUST KIDDING!!!                                    #
+#                                                                             #
+#                  !!!WARNING, SPOILER ALERT!!!                               #
+#                                                                             #
+#                                                                             #
+# Here is a script for the End Game and Statistics for it. Total spoilage     #
+# ahead. You bunch of Cheaters....                                            #
+#                                                                             #
+# Points gained through exploration:                                          #
+# ROOM              POINTS      RANK                                          #
+# =========================================                                   #
+# Crypt                 10      Cheater                                       #
+# Top of Stairs          5                                                    #
+# Wooden Box            15      Advanced Cheater                              #
+# North Hallway         15                                                    #
+# Narrow Corridor       20      Master Cheater                                #
+# Dungeon Master Room   35      Dungeon Master                                #
+# =========================================                                   #
+# Total:               100                                                    #
+#                                                                             #
+
+brief,d,n,drop sword,s,push button,n,get sword,n,enter,raise short pole
+push red panel,push red panel,lower short pole,push mahoga panel
+push mahoga panel,push mahoga panel,raise short pole,push red panel
+push red panel,push red panel,push red panel,push pine panel,n,knock on door
+answer,skeleton
+answer,temple
+answer,flask
+n,tell master,follow,n,e,n,n,tell master,stay,turn dial to 4,press button,s
+open door,s,tell master,push button,open bronze door,s
+
+### END OF SCRIPT ###
+
+
+
+
+
+# This is the full script, end to end. Go ahead, try it, and be a Cheater!    #
+# I tested this script out, and it worked 100% of the time for me. There are  #
+# a bunch of variables that I have found working with the scripts in this     #
+# file. Some of these variables include: the order of the commands, the       #
+# number of commands there are up to a certain point, random numbers in the   #
+# game that control the thief and the round rooms. So this script might not   #
+# work for you. Try it out and see where it fails; see if you can fix it for  #
+# you. And have fun!                                                          #
+
+brief,open box,read leaflet,n,n,u,get egg,open egg,d,w,e,open window,w,
+get sack,open sack,get lunch,get garlic,get bottle,w,drop all, get lamp,e
+turn on lamp,u,get all,d,turn off lamp,w,drop all,read news,drop news
+move rug,open trap door,turn on lamp,d,s,s,get painting,s,u,turn off lamp,w
+open case,put painting in case,open trap door,turn on lamp,d,s,s
+w,ne,e,s,get portrait,n,walk through curtain,walk through south wall
+walk through curtain,get bills,walk through north wall,drop bills
+drop portrait,e,e,get all,walk through curtain,s,s,s,drop bills,u
+turn off lamp,w,put portrait in case,open trap door,turn on lamp,d,s,s,s
+get bills,u,turn off lamp,w,put bills in case,get sword,open trap door
+get egg,get rope,turn on lamp,d,e,kill troll with sword
+kill troll with sword
+kill troll with sword
+drop sword,n,n,w,e,tie rope to rail,d,turn off lamp,get torch,d,e,n,n,d,u,e,n
+read match,read book,n,get screwd,get wrench,press yellow button,w,s
+turn bolt with wrench,drop wrench,s,nw,n,get trunk,n,get pump,n,get trident
+u,n,rub mirror,n,n,u,treasure,drop egg,get chalice,temple,drop all
+get lamp,get torch,w,get grail,e,sw,rub mirror,e,d,get trident,u,n,rub mirror
+n,n,u,drop trident,e,douse candles,read book,w,get match,get bell,w,e,s,d
+light match,light candles with match,exorcise,drop bell,drop book,drop candles
+u,n,n,u,get trident,get chalice,e,pray,e,w,e,w,w,put trident in case
+put grail in case,put chalice in case,drop match
+get garlic,open trap door,d,e,n,n,d,n,n,n,u,n,rub mirror,n,n,u,get all
+drop book,w,e,sw,rub mirror,w,w,n,nw,w,drop garlic,get figurine,e,s,ne,n,w
+drop torch,turn on lamp,d,get bracelet,u,turn off lamp,get torch,e,s,w,s,d,u
+put bracelt in case,put figurine in case,put trunk in case,drop all
+get torch, get bottle,get lamp,d,e,n,e,e,s,e
+read engravings,se,well,e,get necklace,e,read wall,board,open bottle
+put water in bucket,disembark,read wall,e,get all,eat eatme cake,e,get flask
+read red cake with flask,read orange cake with flask
+read blue cake with flask,drop flask,throw red cake,get spices,w
+eat blue cake,drop orange cake,nw,read paper,drop paper,tell robot,e,e
+tell robot,push triangle button,tell robot,s,s,get sphere
+tell robot,lift cage,get sphere,n,w,s
+w,board,put water in bottle,close bottle,disembark,drop bottle,w,w,d,n
+open box,get violin,w,w,w,u,put spices in case,put necklace in case
+put sphere in case, put violin in case,drop all,save
+get torch,get lamp,d,e,n,n,w,nw,get coffin,u,n,get wire,e,n,n,n,u,n
+rub mirror,n,n,u,e,pray,e,w,e,w,w,put coffin in case,drop wire,get pump
+d,e,n,e,ne,ne
+echo
+get bar,e,e,get shovel,nw,s,w,s,nw,e,d,inflate boat with pump,drop pump
+put stick in boat,board,launch,d,d,d,get buoy,w,disembark,get stick,open buoy
+get emerald,dig with shovel,dig with shovel,dig with shovel,dig with shovel
+get statue,drop shovel,drop buoy,s,s,wave stick,drop stick,e,e,get pot,se,u
+u,w,w,n,e,w,w,put pot in case,put statue in case, put emerald in case
+put bar in case,drop all
+get torch,get lamp,get knife,d,e,s,e,w,u,get coins,get keys,sw,u,e,ne
+unlock grate with keys,drop keys,open grate,u,sw,w,w,put coins in case,e,e
+e,d,sw,d,e,n,e,s,ne,odysseus,u
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+get egg,get canary,temple,get book,treasure,e,read paper,drop paper,d
+push east wall,s,s,w,push south wall,e,n,n,n,w,push south wall
+push south wall,e,e,e,push south wall,get card,push south wall
+push west wall,e,e,e,n,push west wall,s,w,w,n,n,e,push south wall,w,s
+push east wall,n,e,push south wall,w,n,n,n,n,push east wall,w,s,s,s,e,e
+n,n,push west wall,n,w,push south wall,push south wall,w,s,s,e,e,n
+push west wall,s,w,push north wall,e,n,push west wall,s,w,push north wall
+push north wall,w,n,u,w,d,n,e,put card in case,put egg in case,drop book
+e,e,n,n,wind canary,get bauble,w,e,w,w,put canary in case
+put bauble in case,drop all
+get lamp,get torch,get screwd,d,e,n,n,d,n,n,n,u,n,w,w,n,ne
+put screwd in basket,n,ne,n,ne,nw,d,d,ne,get coal,s,u,u,e,e,s
+put coal in basket,turn on lamp,put lamp in basket,lower basket,n,ne,n,ne
+nw,d,d,s,drop all,sw,get lamp,get screwd,get coal,e,open lid,put coal in lid
+close lid,turn switch with screwd,open lid,get diamond,drop screwd,nw
+put diamond in basket,put lamp in basket,ne,get torch,n,u,u,e,e,s
+raise basket,get lamp,turn lamp off,get diamond,w,s,d,u,put diamond in case
+drop all
+get torch,get lamp,get brick,get wire,get match,get book,d,e,n,n,w,nw,u
+turn on lamp,throw torch at glacier,w,get ruby,w,s,board,open recept
+put book in recept,light match,light book with match,wait,wait,land
+disembark,tie rope to hook,get coin,s,open purple book,get stamp,n,board
+untie rope,wait,wait,wait,land,disembark,tie rope to hook,s
+put brick in hole,put wire in brick,light match,light wire with match
+n,s,read card,get crown,n,board,untie rope,close recept,wait,wait,wait
+wait,wait,disembark,drop card,n,w,s,n,get torch,e,s,s,w,w,u,turn off lamp
+put crown in case,put coin in case,put ruby in case,put stamp in case
+put torch in case,close case,drop match,turn on lamp,d,e,n,e,e,e,s,d,e,e
+wait,wait,wait,wait,wait,wait,open crypt,n,close crypt,turn off lamp
+wait,wait,wait
+d,n,drop sword,s,push button,n,get sword,n,enter,raise short pole
+push red panel,push red panel,lower short pole,push mahoga panel
+push mahoga panel,push mahoga panel,raise short pole,push red panel
+push red panel,push red panel,push red panel,push pine panel,n,knock on door
+answer,flask
+answer,rusty knife
+answer,forest
+n,tell master,follow,n,e,n,n,tell master,stay,turn dial to 4,press button,s
+open door,s,tell master,push button,open bronze door,s
+
+### END OF SCRIPT ###
+
+#=================================END OF FILE=================================#
