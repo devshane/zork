@@ -129,5 +129,9 @@ to change the format of the database file.  Andre Srinivasan
 
 ## Notes
 
-This version of the game was made with a gcc compiler running Cygwin, a Linux-type environment running on windows. The Makefile was edited from the original to use 'lcurses' libraries, instead of 'ltermcap' libraries. The resulting .exe file ran on both windows command prompt and Cygwin (xterm).
+This version of the game was made with a gcc compiler on Cygwin, a
+Linux-type environment running on windows. The Makefile was edited from
+the original to use 'lcurses' libraries, instead of 'ltermcap'
+libraries. The resulting .exe file ran on both windows command prompt
+and Cygwin (xterm).
 
