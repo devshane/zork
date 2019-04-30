@@ -42,7 +42,7 @@ TERMFLAG =
 # Uncomment the following line if you want to have access to the game
 # debugging tool.  This is invoked by typing "gdt".  It is not much
 # use except for debugging.
-GDTFLAG = -DALLOW_GDT
+# GDTFLAG = -DALLOW_GDT
 
 # Compilation flags
 CFLAGS = -g #-static
@@ -70,7 +70,7 @@ dungeon: $(OBJS) dtextc.dat
 	$(CC) $(CFLAGS) -o zork $(OBJS) $(LDFLAGS) $(LIBS)
 
 install: zork dtextc.dat
-	mkdir -p $(BINDIR) $(LIBDIR) $(MANDIR)/man6
+	mkdir -p $(BINDIR) $(DATADIR) $(LIBDIR) $(MANDIR)/man6
 	cp zork $(BINDIR)
 	cp dtextc.dat $(DATADIR)
 	cp dungeon.6 $(MANDIR)/man6/
@@ -94,7 +94,7 @@ local.o: local.c funcs.h vars.h
 	$(CC) $(CFLAGS) $(GDTFLAG) -c local.c
 
 supp.o: supp.c funcs.h vars.h
-	$(CC) $(CFLAGS) $(TERMFLAG) -c supp.c	
+	$(CC) $(CFLAGS) $(TERMFLAG) -c supp.c
 
 actors.o: funcs.h vars.h
 ballop.o: funcs.h vars.h
