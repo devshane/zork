@@ -18,9 +18,9 @@ MANDIR = /usr/share/man
 # more option 1: use the termcap routines.  On some systems the LIBS
 # variable may need to be set to -lcurses.  On some it may need to
 # be /usr/lib/termcap.o.  These options are commented out below.
-LIBS = -ltermcap
+# LIBS = -ltermcap
 TERMFLAG =
-# LIBS = -lcurses
+LIBS = -lcurses
 # LIBS = /usr/lib/termcap.o
 
 # more option 2: use the terminfo routines.  On some systems the LIBS
