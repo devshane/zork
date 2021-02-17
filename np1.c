@@ -27,7 +27,7 @@ logical vbflag;
     const integer r50wal = 36852;
 
     /* System generated locals */
-    integer ret_val, i__1, i__2;
+    volatile integer ret_val, i__1, i__2;
 
     /* Local variables */
     integer i, j, adj;
