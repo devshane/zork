@@ -24,7 +24,7 @@ FILE *dbfile;
 #define TEXTFILE "lib:dtextc.dat"
 #else /* ! __AMOS__ */
 #ifdef unix
-#define TEXTFILE "/usr/games/lib/dunlib/dtextc.dat"
+#define TEXTFILE "./games/lib/dunlib/dtextc.dat"
 #else /* ! unix */
  I need a definition for TEXTFILE
 #endif /* ! unix */
