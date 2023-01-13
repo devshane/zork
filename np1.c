@@ -55,7 +55,7 @@ logical vbflag;
     pv_1.p2 = 0;
 
     buzlnt = 20;
-    prplnt = 48;
+    prplnt = 45;
     dirlnt = 75;
 /* SPARSE, PAGE 8 */
 
