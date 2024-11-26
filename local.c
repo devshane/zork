@@ -5,6 +5,9 @@
 #ifdef __AMOS__
 #include <moncal.h>
 #endif
+#ifdef unix
+#include <unistd.h>
+#endif
 
 /* This function should return TRUE_ if it's OK for people to play the
  * game, FALSE_ otherwise.  If you have a working <time.h> library,
