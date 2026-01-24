@@ -2,6 +2,10 @@
 
 #include "funcs.h"
 
+#ifdef __linux__
+#include <unistd.h> /* provides getuid() */
+#endif
+
 #ifdef __AMOS__
 #include <moncal.h>
 #endif
