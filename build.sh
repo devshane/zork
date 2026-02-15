@@ -8,7 +8,7 @@ rm -f *.o zork
 # Compile sources
 # We use -DALLOW_GDT to enable game debugging tool (optional but standard in Makefile)
 echo "Compiling source files..."
-cc -g -DALLOW_GDT -c *.c
+cc -g -DALLOW_GDT -DTEXTFILE=\"dtextc.dat\" -Wno-deprecated-non-prototype -c *.c
 
 # Link
 echo "Linking..."

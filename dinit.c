@@ -12,6 +12,9 @@
 
 #include "funcs.h"
 #include "vars.h"
+static void rdints();
+static void rdpartialints();
+static void rdflags();
 
 /* This is here to avoid depending on the existence of <stdlib.h> */
 
