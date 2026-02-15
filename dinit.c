@@ -12,9 +12,9 @@
 
 #include "funcs.h"
 #include "vars.h"
-static void rdints();
-static void rdpartialints();
-static void rdflags();
+static void rdints(integer, integer *, FILE *);
+static void rdpartialints(integer, integer *, FILE *);
+static void rdflags(integer, logical *, FILE *);
 
 /* This is here to avoid depending on the existence of <stdlib.h> */
 
