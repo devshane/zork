@@ -77,8 +77,8 @@ install: zork dtextc.dat
 clean:
 	rm -f $(OBJS) zork core dsave.dat *~
 
-dtextc.dat:
-	cat dtextc.uu1 dtextc.uu2 dtextc.uu3 dtextc.uu4 | uudecode
+# dtextc.dat:
+# 	cat dtextc.uu1 dtextc.uu2 dtextc.uu3 dtextc.uu4 | uudecode
 
 dinit.o: dinit.c funcs.h vars.h
 	$(CC) $(CFLAGS) $(GDTFLAG) -DTEXTFILE=\"$(DATADIR)/dtextc.dat\" -c dinit.c

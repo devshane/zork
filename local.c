@@ -1,3 +1,4 @@
+#include <unistd.h>
 /* local.c -- dungeon functions which need local definition */
 
 #include "funcs.h"
