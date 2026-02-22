@@ -1,0 +1,2371 @@
+Welcome to Dungeon.			This version created 11-MAR-91.
+You are in an open field west of a big white house with a boarded
+front door.
+There is a small mailbox here.
+>brief,open box,read leaflet,n,n,u,get egg,open egg,d,w,e,open window,w,
+get sack,open sack,get lunch,get garlic,get bottle,w,drop all, get lamp,e
+turn on lamp,u,get all,d,turn off lamp,w,drop all,read news,drop news
+move rug,open trap door,turn on lamp,d,s,s,get painting,s,u,turn off lamp,w
+open case,put painting in case,open trap door,turn on lamp,d,s,s
+w,ne,e,s,get portrait,n,walk through curtain,walk through south wall
+walk through curtain,get bills,walk through north wall,drop bills
+drop portrait,e,e,get all,walk through curtain,s,s,s,drop bills,u
+turn off lamp,w,put portrait in case,open trap door,turn on lamp,d,s,s,s
+get bills,u,turn off lamp,w,put bills in case,get sword,open trap door
+get egg,get rope,turn on lamp,d,e,kill troll with sword
+kill troll with sword
+kill troll with sword
+drop sword,n,n,w,e,tie rope to rail,d,turn off lamp,get torch,d,e,n,n,d,u,e,n
+read match,read book,n,get screwd,get wrench,press yellow button,w,s
+turn bolt with wrench,drop wrench,s,nw,n,get trunk,n,get pump,n,get trident
+u,n,rub mirror,n,n,u,treasure,drop egg,get chalice,temple,drop all
+get lamp,get torch,w,get grail,e,sw,rub mirror,e,d,get trident,u,n,rub mirror
+n,n,u,drop trident,e,douse candles,read book,w,get match,get bell,w,e,s,d
+light match,light candles with match,exorcise,drop bell,drop book,drop candles
+u,n,n,u,get trident,get chalice,e,pray,e,w,e,w,w,put trident in case
+put grail in case,put chalice in case,drop match
+get garlic,open trap door,d,e,n,n,d,n,n,n,u,n,rub mirror,n,n,u,get all
+drop book,w,e,sw,rub mirror,w,w,n,nw,w,drop garlic,get figurine,e,s,ne,n,w
+drop torch,turn on lamp,d,get bracelet,u,turn off lamp,get torch,e,s,w,s,d,u
+put bracelt in case,put figurine in case,put trunk in case,drop all
+get torch, get bottle,get lamp,d,e,n,e,e,s,e
+read engravings,se,well,e,get necklace,e,read wall,board,open bottle
+put water in bucket,disembark,read wall,e,get all,eat eatme cake,e,get flask
+read red cake with flask,read orange cake with flask
+read blue cake with flask,drop flask,throw red cake,get spices,w
+eat blue cake,drop orange cake,nw,read paper,drop paper,tell robot,e,e
+tell robot,push triangle button,tell robot,s,s,get sphere
+tell robot,lift cage,get sphere,n,w,s
+w,board,put water in bottle,close bottle,disembark,drop bottle,w,w,d,n
+open box,get violin,w,w,w,u,put spices in case,put necklace in case
+put sphere in case, put violin in case,drop all,save
+get torch,get lamp,d,e,n,n,w,nw,get coffin,u,n,get wire,e,n,n,n,u,n
+rub mirror,n,n,u,e,pray,e,w,e,w,w,put coffin in case,drop wire,get pump
+d,e,n,e,ne,ne
+echo
+get bar,e,e,get shovel,nw,s,w,s,nw,e,d,inflate boat with pump,drop pump
+put stick in boat,board,launch,d,d,d,get buoy,w,disembark,get stick,open buoy
+get emerald,dig with shovel,dig with shovel,dig with shovel,dig with shovel
+get statue,drop shovel,drop buoy,s,s,wave stick,drop stick,e,e,get pot,se,u
+u,w,w,n,e,w,w,put pot in case,put statue in case, put emerald in case
+put bar in case,drop all
+get torch,get lamp,get knife,d,e,s,e,w,u,get coins,get keys,sw,u,e,ne
+unlock grate with keys,drop keys,open grate,u,sw,w,w,put coins in case,e,e
+e,d,sw,d,e,n,e,s,ne,odysseus,u
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+kill thief with knife
+get egg,get canary,temple,get book,treasure,e,read paper,drop paper,d
+push east wall,s,s,w,push south wall,e,n,n,n,w,push south wall
+push south wall,e,e,e,push south wall,get card,push south wall
+push west wall,e,e,e,n,push west wall,s,w,w,n,n,e,push south wall,w,s
+push east wall,n,e,push south wall,w,n,n,n,n,push east wall,w,s,s,s,e,e
+n,n,push west wall,n,w,push south wall,push south wall,w,s,s,e,e,n
+push west wall,s,w,push north wall,e,n,push west wall,s,w,push north wall
+push north wall,w,n,u,w,d,n,e,put card in case,put egg in case,drop book
+e,e,n,n,wind canary,get bauble,w,e,w,w,put canary in case
+put bauble in case,drop all
+get lamp,get torch,get screwd,d,e,n,n,d,n,n,n,u,n,w,w,n,ne
+put screwd in basket,n,ne,n,ne,nw,d,d,ne,get coal,s,u,u,e,e,s
+put coal in basket,turn on lamp,put lamp in basket,lower basket,n,ne,n,ne
+nw,d,d,s,drop all,sw,get lamp,get screwd,get coal,e,open lid,put coal in lid
+close lid,turn switch with screwd,open lid,get diamond,drop screwd,nw
+put diamond in basket,put lamp in basket,ne,get torch,n,u,u,e,e,s
+raise basket,get lamp,turn lamp off,get diamond,w,s,d,u,put diamond in case
+drop all
+get torch,get lamp,get brick,get wire,get match,get book,d,e,n,n,w,nw,u
+turn on lamp,throw torch at glacier,w,get ruby,w,s,board,open recept
+put book in recept,light match,light book with match,wait,wait,land
+disembark,tie rope to hook,get coin,s,open purple book,get stamp,n,board
+untie rope,wait,wait,wait,land,disembark,tie rope to hook,s
+put brick in hole,put wire in brick,light match,light wire with match
+n,s,read card,get crown,n,board,untie rope,close recept,wait,wait,wait
+wait,wait,disembark,drop card,n,w,s,n,get torch,e,s,s,w,w,u,turn off lamp
+put crown in case,put coin in case,put ruby in case,put stamp in case
+put torch in case,close case,drop match,turn on lamp,d,e,n,e,e,e,s,d,e,e
+wait,wait,wait,wait,wait,wait,open crypt,n,close crypt,turn off lamp
+wait,wait,wait
+d,n,drop sword,s,push button,n,get sword,n,enter,raise short pole
+push red panel,push red panel,lower short pole,push mahoga panel
+push mahoga panel,push mahoga panel,raise short pole,push red panel
+push red panel,push red panel,push red panel,push pine panel,n,knock on door
+answer,flask
+answer,rusty knife
+answer,forest
+n,tell master,follow,n,e,n,n,tell master,stay,turn dial to 4,press button,s
+open door,s,tell master,push button,open bronze door,s
+Brief descriptions.
+Opening the mailbox reveals:
+  A leaflet.
+Taken.
+		    Welcome to Dungeon!
+
+   Dungeon is a game of adventure, danger, and low cunning.  In it
+you will explore some of the most amazing territory ever seen by mortal
+man.  Hardened adventurers have run screaming from the terrors contained
+within.
+
+   In Dungeon, the intrepid explorer delves into the forgotten secrets
+of a lost labyrinth deep in the bowels of the earth, searching for
+vast treasures long hidden from prying eyes, treasures guarded by
+fearsome monsters and diabolical traps!
+
+   No DECsystem should be without one!
+
+   Dungeon was created at the Programming Technology Division of the MIT
+Laboratory for Computer Science by Tim Anderson, Marc Blank, Bruce
+Daniels, and Dave Lebling.  It was inspired by the Adventure game of
+Crowther and Woods, and the Dungeons and Dragons game of Gygax
+and Arneson.  The original version was written in MDL (alias MUDDLE).
+The current version was translated from MDL into FORTRAN IV by
+a somewhat paranoid DEC engineer who prefers to remain anonymous,
+and was later translated to C.
+
+   On-line information may be obtained with the commands HELP and INFO.
+You are facing the north side of a white house.  There is no door here,
+and all the windows are barred.
+You are in a dimly lit forest, with large trees all around.  One
+particularly large tree with some low branches stands here.
+You hear in the distance the chirping of a song bird.
+You are about ten feet above the ground nestled among some large
+branches.  The nearest branch above you is beyond your reach.
+On the branch is a small birds nest.
+The birds nest contains:
+  A jewel-encrusted egg.
+Taken.
+There is no obvious way to open the egg.
+Forest
+You hear in the distance the chirping of a song bird.
+North of House
+You are behind the white house.  In one corner of the house
+there is a window which is slightly ajar.
+With great effort, you open the window far enough to allow passage.
+You are in the kitchen of the white house.  A table seems to have
+been used recently for the preparation of food.  A passage leads to
+the west, and a dark staircase can be seen leading upward.  To the
+east is a small window which is open.
+On the table is an elongated brown sack, smelling of hot peppers.
+A clear glass bottle is here.
+The glass bottle contains:
+  A quantity of water.
+>Taken.
+Opening the brown sack reveals:
+  A clove of garlic.
+  A lunch.
+Taken.
+Taken.
+Taken.
+You are in the living room.  There is a door to the east.  To the west
+is a wooden door with strange gothic lettering, which appears to be
+nailed shut.
+In the center of the room is a large oriental rug.
+There is a trophy case here.
+On hooks above the mantlepiece hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+There is an issue of US NEWS & DUNGEON REPORT dated 11-MAR-91 here.
+brown sack:
+Dropped.
+clove of garlic:
+Dropped.
+lunch:
+Dropped.
+glass bottle:
+Dropped.
+leaflet:
+Dropped.
+jewel-encrusted egg:
+Dropped.
+Taken.
+Kitchen
+>The lamp is now on.
+You are in the attic.  The only exit is stairs that lead down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+There is a square brick here which feels like clay.
+rope:
+Taken.
+knife:
+Taken.
+brick:
+Taken.
+Kitchen
+The lamp is now off.
+Living Room
+You can see:  A brown sack.
+  A clove of garlic.
+  A lunch.
+  A trophy case.
+  A glass bottle.
+  A sword.
+  A newspaper.
+  A leaflet.
+  A jewel-encrusted egg.
+The glass bottle contains:
+  A quantity of water.
+rope:
+Dropped.
+knife:
+Dropped.
+lamp:
+Dropped.
+brick:
+Dropped.
+Taken.
+		 US NEWS & DUNGEON REPORT
+11-MAR-91					Late Dungeon Edition
+
+		--- LATE NEWS FLASH!! ---
+The endgame is here!  (Somewhere)
+There have been some puzzling new discoveries near the Thief's hideaway.
+
+		--- BACKGROUND INFORMATION ---
+
+This version of Dungeon for the PDP-11/VAX-11 has been completely
+reimplemented in FORTRAN-IV from the original MDL sources created
+at MIT.  The parser in this version is somewhat simpler than the
+parser in the ARPAnet version;  within this limit, this version
+is fully congruent with the current version on the ARPAnet.
+
+This version has been converted from FORTRAN-IV to C via f77.  If
+you have any problems, please report them to:
+    ian@airs.com or uunet!airs!ian (Ian Lance Taylor)
+Dropped.
+>With a great effort, the rug is moved to one side of the room.
+With the rug moved, the dusty cover of a closed trap door appears.
+The door reluctantly opens to reveal a rickety staircase descending
+into darkness.
+Taken.
+The lamp is now on.
+You are in a dark and damp cellar with a narrow passageway leading
+east, and a crawlway to the south.  To the west is the bottom of a
+steep metal ramp which is unclimbable.
+The door crashes shut, and you hear someone barring it.
+You are on the west edge of a chasm, the bottom of which cannot be
+seen.  The east side is sheer rock, providing no exits.  A narrow
+passage goes west.  The path you are on continues to the north and south.
+You are in an art gallery.  Most of the paintings which were here
+have been stolen by vandals with exceptional taste.  The vandals
+left through the north, south, or west exits.
+Fortunately, there is still one chance for you to be a vandal, for on
+the far wall is a work of unparalleled beauty.
+Taken.
+You are in what appears to have been an artist's studio.  The walls
+and floors are splattered with paints of 69 different colors.
+Strangely enough, nothing of value is hanging here.  At the north and
+northwest of the room are open doors (also covered with paint).  An
+extremely dark and narrow chimney leads up from a fireplace.  Although
+you might be able to get up the chimney, it seems unlikely that you
+could get back down.
+Kitchen
+The lamp is now off.
+Living Room
+You can see:  A brown sack.
+  A clove of garlic.
+  A lunch.
+  A trophy case.
+  A glass bottle.
+  A rope.
+  A knife.
+  A sword.
+  A newspaper.
+  A leaflet.
+  A brick.
+  A jewel-encrusted egg.
+The glass bottle contains:
+  A quantity of water.
+>Opened.
+Done.
+The door reluctantly opens to reveal a rickety staircase descending
+into darkness.
+The lamp is now on.
+Cellar
+The door crashes shut, and you hear someone barring it.
+West of Chasm
+Gallery
+>You are in the large entrance hall of the Bank of Zork, the largest
+banking institution of the Great Underground Empire.  A partial
+account of its history is in "The Lives of the Twelve Flatheads" with
+the chapter on J. Pierpont Flathead.  A more detailed history (albeit
+less objective) may be found in Flathead's outrageous autobiography
+"I'm Rich and You Aren't - So There!".
+Most of the furniture has been ravaged by passing scavengers.  All
+that remains are two signs at the northwest and northeast corners of
+the room, which say
+
+	<-- WEST VIEWING ROOM		EAST VIEWING ROOM -->
+You are in a small square room, which was used by a bank officer
+whose job it was to retrieve safety deposit boxes for the customer.
+On the north side of the room is a sign which reads "Viewing Room".
+On the east side of the room, above an open door, is a sign reading
+
+		    BANK PERSONNEL ONLY
+You are in a large rectangular room.  The east and west walls here
+were used for storing safety deposit boxes.  As might be expected,
+all have been carefully removed by evil persons.  To the east, west,
+and south of the room are large doorways.  The northern "wall"
+of the room is a shimmering curtain of light.  In the center of the
+room is a large stone cube, about 10 feet on a side.  Engraved on
+the side of the cube is some lettering.
+This room was the office of the Chairman of the Bank of Zork.
+Like the other rooms here, it has been extensively vandalized.
+The lone exit is to the north.
+A portrait of J. Pierpont Flathead hangs on the wall.
+Taken.
+Safety Depository
+You feel somewhat disoriented as you pass through...
+You are in a small bare room with no distinguishing features.  There
+are no exits from this room.
+You feel somewhat disoriented as you pass through...
+You are in a large rectangular room.  The east and west walls here
+were used for storing safety deposit boxes.  As might be expected,
+all have been carefully removed by evil persons.  To the east, west,
+and south of the room are large doorways.  The northern "wall"
+of the room is a shimmering curtain of light.  In the center of the
+room is a large stone cube, about 10 feet on a side.  Engraved on
+the side of the cube is some lettering.
+>You feel somewhat disoriented as you pass through...
+You are in the Vault of the Bank of Zork, in which there are no doors.
+On the floor sit 200 neatly stacked zorkmid bills.
+Taken.
+You feel somewhat disoriented as you pass through...
+You are in a large rectangular room.  The east and west walls here
+were used for storing safety deposit boxes.  As might be expected,
+all have been carefully removed by evil persons.  To the east, west,
+and south of the room are large doorways.  The northern "wall"
+of the room is a shimmering curtain of light.  In the center of the
+room is a large stone cube, about 10 feet on a side.  Engraved on
+the side of the cube is some lettering.
+Dropped.
+>Dropped.
+East Teller's Room
+Safety Depository
+You can see:  A stack of zorkmid bills.
+  A portrait of J. Pierpont Flathead.
+stack of zorkmid bills:
+Taken.
+portrait of J. Pierpont Flathead:
+Taken.
+You feel somewhat disoriented as you pass through...
+You are in a room used by holders of safety deposit boxes to view
+their contents.  On the north side of the room is a sign which says
+
+   REMAIN HERE WHILE THE BANK OFFICER RETRIEVES YOUR DEPOSIT BOX
+    WHEN YOU ARE FINISHED, LEAVE THE BOX, AND EXIT TO THE SOUTH
+     AN ADVANCED PROTECTIVE DEVICE PREVENTS ALL CUSTOMERS FROM
+      REMOVING ANY SAFETY DEPOSIT BOX FROM THIS VIEWING AREA!
+               Thank you for banking at the Zork!
+Bank Entrance
+Gallery
+Studio
+Dropped.
+Kitchen
+>The lamp is now off.
+Living Room
+You can see:  A brown sack.
+  A clove of garlic.
+  A lunch.
+  A trophy case.
+  A glass bottle.
+  A rope.
+  A knife.
+  A sword.
+  A newspaper.
+  A leaflet.
+  A brick.
+  A jewel-encrusted egg.
+The glass bottle contains:
+  A quantity of water.
+Done.
+The door reluctantly opens to reveal a rickety staircase descending
+into darkness.
+The lamp is now on.
+Cellar
+The door crashes shut, and you hear someone barring it.
+West of Chasm
+Gallery
+Studio
+You can see:  A stack of zorkmid bills.
+>Taken.
+Kitchen
+The lamp is now off.
+Living Room
+You can see:  A brown sack.
+  A clove of garlic.
+  A lunch.
+  A trophy case.
+  A glass bottle.
+  A rope.
+  A knife.
+  A sword.
+  A newspaper.
+  A leaflet.
+  A brick.
+  A jewel-encrusted egg.
+The glass bottle contains:
+  A quantity of water.
+Done.
+Taken.
+The door reluctantly opens to reveal a rickety staircase descending
+into darkness.
+>Taken.
+Taken.
+The lamp is now on.
+Cellar
+The door crashes shut, and you hear someone barring it.
+Your sword is glowing with a faint blue glow.
+You are in a small room with passages off in all directions.
+Bloodstains and deep scratches (perhaps made by an axe) mar the walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages
+out of the room.
+You sword has begun to glow very brightly.
+You charge, but the troll jumps nimbly aside.
+The axe sweeps past you as you jump aside.
+>The troll's weapon is knocked to the floor, leaving him unarmed.
+The troll, now worried about this encounter, recovers his
+bloody axe.
+>It's curtains for the troll as your sword removes his head.
+Almost as soon as the troll breathes his last, a cloud of
+sinister black smoke envelops him, and when the fog lifts, the
+carcass has disappeared.
+Your sword is no longer glowing.
+>Dropped.
+You are in a narrow east-west passageway.  There is a narrow staircase
+leading down at the north end of the room.
+You are in a deep ravine at a crossing with an east-west crawlway.
+Some stone steps are at the south of the ravine and a steep staircase
+descends.
+You are in a crawlway with a three foot high ceiling.  Your footing
+is very unsure here due to the assortment of rocks undefoot.  Passages
+can be seen in the east, west, and northwest corners of the crawlway.
+You are at the periphery of a large dome, which forms the ceiling
+of another room below.  Protecting you from a precipitous drop is a
+wooden railing which circles the dome.
+The rope drops over the side and comes within ten feet of the floor.
+You are in a large room with a prominent doorway leading to a down
+staircase.  To the west is a narrow twisting tunnel.  Above you is a
+large dome painted with scenes depicting elvish hacking rites.  Up
+around the edge of the dome (20 feet up) is a wooden railing.  In the
+center of the room there is a white marble pedestal.
+A large piece of rope descends from the railing above, ending some
+five feet above your head.
+Sitting on the pedestal is a flaming torch, made of ivory.
+The lamp is now off.
+Taken.
+You are in a north-south crawlway;  a passage also goes to the east.
+There is a hole above, but it provides no opportunities for climbing.
+Troll Room
+You can see:  A sword.
+East-West Passage
+Deep Ravine
+You are in a long room on the south shore of a large reservoir.
+There is a western exit, a passageway south, and a steep pathway
+climbing up along the edge of a cliff.
+You are on the south edge of a deep canyon.  Passages lead off
+to the east, south, and northwest.  You can hear the sound of
+flowing water below.
+You are standing on the top of flood control dam #3, which was
+quite a tourist attraction in times far distant.  There are paths
+to the north, south, east, and down.
+The sluice gates on the dam are closed.  Behind the dam, there can
+be seen a wide lake.  A small stream is formed by the runoff from
+the lake.
+There is a control panel here.  There is a large metal bolt on the
+panel.  Above the bolt is a small green plastic bubble.
+This room appears to have been the waiting room for groups touring
+the dam.  There are exits here to the north and east marked
+"PRIVATE", though the doors are open, and an exit to the south.
+A guidebook entitled "FLOOD CONTROL DAM #3" is on the
+reception desk.
+There is a matchbook whose cover says "VISIT BEAUTIFUL FCD #3" here.
+>>Taken.
+		[Close cover before striking BKD]
+
+	You too can make BIG MONEY in the exciting field of
+		      PAPER SHUFFLING!
+
+Mr. TAA of Muddle, Mass. says:  "Before I took this course I used
+to be a lowly bit twiddler.  Now with what I learned at MIT Tech
+I feel really important and can obfuscate and confuse with the best."
+
+Mr. MARC had this to say:  "Ten short days ago all I could look
+forward to was a dead-end job as a engineer.  Now I have a promising
+future and make really big Zorkmids."
+
+MIT Tech can't promise these fantastic results to everyone, but when
+you earn your MDL degree from MIT Tech your future will be brighter.
+
+		Send for our free brochure today!
+Taken.
+		   Guide Book To
+		Flood Control Dam #3
+
+  Flood control dam #3 (FCD #3) was constructed in year 783 of the
+Great Underground Empire to harness the destructive power of the
+Frigid River.  This work was supported by a grant of 37 million
+zorkmids from the central bureaucracy and your own omnipotent local
+tyrant Lord Dimwit Flathead the Excessive.  This impressive structure
+is composed of 3.7 cubic feet of concrete, is 256 feet tall at the
+center, and 193 feet wide at the top.  The reservoir created behind
+the dam has a volume of 37 billion cubic feet, an area of 12 million
+square feet, and a shore line of 36 thousand feet.
+
+  The construction of FCD #3 took 112 days from ground breaking to
+the dedication.  It required a work force of 384 slaves, 34 slave
+drivers, 12 engineers, 2 turtle doves, and a partridge in a pear
+tree.  The work was managed by a command team composed of 234
+bureaucrats, 2347 secretaries (at least two of whom could type),
+12,256 paper shufflers, 52,469 rubber stampers, 245,193 red tape
+processors, and nearly one million dead trees.
+
+  We will now point out some of the more interesting features of
+FCD #3 as we conduct you on a guided tour of the facilities.
+
+  1)	You start your tour here in the dam lobby.
+	You will notice on your right that ...........
+You are in what appears to have been the maintenance room for flood
+control dam #3, judging by the assortment of tool chests around the
+room.  Apparently, this room has been ransacked recently, for most of
+the valuable equipment is gone.  On the wall in front of you is a
+panel of buttons, which are labelled in EBCDIC.  However, they are of
+different colors:  blue, yellow, brown, and red.  The doors to this
+room are in the west and south ends.
+There is an object which looks like a tube of toothpaste here.
+There is a wrench here.
+There is a screwdriver here.
+Taken.
+Taken.
+Click.
+Dam Lobby
+Dam
+>The sluice gates open, and water pours through the dam.
+Dropped.
+Deep Canyon
+Reservoir South
+You are on what used to be a large reservoir, but which is now a
+large mud pile.  There are 'shores' to the north and south.
+Lying half buried in the mud is an old trunk, bulging with jewels.
+Taken.
+You are in a large cavernous room, to the south of which was formerly
+a reservoir.  However, with the water level lowered, there is merely
+a wide stream running through the center of the room.
+There is a tunnel leaving the room to the north.
+There is a small pump here.
+Taken.
+You are in an ancient room, long buried by the reservoir.  There are
+exits to the southeast and upward.
+On the shore lies Neptune's own crystal trident.
+Your load is too heavy.  You will have to leave something behind.
+>You are in a small cave with an entrance to the north and a stairway
+leading down.
+You are in a large square room with tall ceilings.  There are exits
+on the north, east, and west sides of the room.  On the south wall is
+an enormous mirror which fills the entire wall.
+There is a rumble from deep within the earth, and the room shakes.
+You are in a narrow crawlway.  The crawlway leads from north to south,
+However, the south passage divides to the south and southwest.
+You are standing in a small circular room with a pedestal.  A set of
+stairs leads up, and passages leave the the east and west.
+There is an extremely valuable (perhaps original) grail here.
+You are in the west end of a large temple.  On the south wall is an
+ancient inscription, probably a prayer in a long-forgotten language.
+The north wall is solid granite.  The entrance at the west end of the
+room is through huge marble pillars.
+Lying in the corner of the room is a small brass bell.
+This is a large room, whose north wall is solid granite.  A number
+of discarded bags, which crumble at your touch, are scattered about
+on the floor.  There is an exit down and what appears to be a newly
+created passage to the east.
+There is a silver chalice, intricately engraved, here.
+Dropped.
+Taken.
+You are in the west end of a large temple.  On the south wall is an
+ancient inscription, probably a prayer in a long-forgotten language.
+The north wall is solid granite.  The entrance at the west end of the
+room is through huge marble pillars.
+Lying in the corner of the room is a small brass bell.
+lamp:
+Dropped.
+torch:
+Dropped.
+trunk with jewels:
+Dropped.
+tour guidebook:
+Dropped.
+matchbook:
+Dropped.
+screwdriver:
+Dropped.
+chalice:
+Dropped.
+hand-held air pump:
+Dropped.
+>Taken.
+Taken.
+Grail Room
+You can see:  A grail.
+Taken.
+Narrow Crawlway
+You are in a large square room with tall ceilings.  There are exits
+on the north, east, and west sides of the room.  On the south wall is
+an enormous mirror which fills the entire wall.
+There is a rumble from deep within the earth, and the room shakes.
+Cave
+Atlantis Room
+You can see:  A crystal trident.
+Taken.
+Cave
+Mirror Room
+There is a rumble from deep within the earth, and the room shakes.
+>>Narrow Crawlway
+Grail Room
+Temple
+You can see:  A trunk with jewels.
+  A bell.
+  A tour guidebook.
+  A matchbook.
+  A screwdriver.
+  A chalice.
+  A hand-held air pump.
+Dropped.
+You are in the east end of a large temple.  In front of you is what
+appears to be an altar.
+On the alter is a large black book, open to page 569.
+On the two ends of the altar are burning candles.
+Taken.
+The flame is extinguished.
+Taken.
+		Commandment #12592
+Oh ye who go about saying unto each other:  "Hello sailor":
+Dost thou know the magnitude of thy sin before the gods?
+Yea, verily, thou shalt be ground between two stones.
+Shall the angry gods cast thy body into the whirlpool?
+Surely, thy eye shall be put out with a sharp stick!
+Even unto the ends of the earth shalt thou wander and
+unto the land of the dead shalt thou be sent at last.
+Surely thou shalt repent of thy cunning.
+Temple
+You can see:  A crystal trident.
+  A trunk with jewels.
+  A bell.
+  A tour guidebook.
+  A matchbook.
+  A screwdriver.
+  A chalice.
+  A hand-held air pump.
+Taken.
+Taken.
+Grail Room
+Narrow Crawlway
+You are in a tiny cave with entrances west and north, and a dark,
+forbidding staircase leading down.
+You are outside a large gateway, on which is inscribed:
+
+	"Abandon every hope, all ye who enter here."
+
+The gate is open.  Through it you can see a desolation, with a pile of
+mangled corpses in one corner.  Thousands of voices, lamenting some
+hideous fate, can be heard.
+The way through the gate is barred by evil spirits, who jeer at your
+attempts to pass.
+>One of the matches starts to burn.
+The candles are lit.
+The match has gone out.
+There is a clap of thunder, and a voice echoes through the
+cavern:  "Begone, fiends!"  The spirits, sensing the presense
+of a greater power, flee through the walls.
+Dropped.
+Dropped.
+Dropped.
+>There is a wall there.
+>Cave
+Narrow Crawlway
+Grail Room
+Temple
+You can see:  A crystal trident.
+  A trunk with jewels.
+  A tour guidebook.
+  A screwdriver.
+  A chalice.
+  A hand-held air pump.
+Taken.
+Taken.
+Altar
+You are in a forest, with trees in all directions around you.
+Forest
+North of House
+Behind House
+Kitchen
+Living Room
+You can see:  A brown sack.
+  A clove of garlic.
+  A lunch.
+  A trophy case.
+  A glass bottle.
+  A knife.
+  A newspaper.
+  A leaflet.
+  A brick.
+The glass bottle contains:
+  A quantity of water.
+Done.
+>Done.
+Done.
+Dropped.
+>Taken.
+The door reluctantly opens to reveal a rickety staircase descending
+into darkness.
+Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+Deep Ravine
+Reservoir South
+Reservoir
+Reservoir North
+Atlantis Room
+Cave
+Mirror Room
+There is a rumble from deep within the earth, and the room shakes.
+Narrow Crawlway
+Grail Room
+Temple
+You can see:  A trunk with jewels.
+  A tour guidebook.
+  A screwdriver.
+  A hand-held air pump.
+trunk with jewels:
+Taken.
+tour guidebook:
+Taken.
+screwdriver:
+Taken.
+hand-held air pump:
+Taken.
+>Dropped.
+Grail Room
+Narrow Crawlway
+Mirror Room
+There is a rumble from deep within the earth, and the room shakes.
+You are in a cold and damp corridor where a long east-west passageway
+intersects with a northward path.
+You are in a small chamber, which appears to have been part of a
+coal mine.  On the south wall of the chamber the letters "GRANITE
+WALL" are etched in the rock.  To the east is a long passage, and
+there is a steep metal slide twisting downward.  From the appearance
+of the slide, an attempt to climb up it would be impossible.  To the
+north is a small opening.
+You are standing at the entrance of what might have been a coal
+mine.  To the northeast and the northwest are entrances to the mine,
+and there is another exit on the south end of the room.
+You are in a small room.  Strange squeaky sounds may be hear coming
+from the passage at the west end.  You may also escape to the south.
+You are in a small room that has only one door, to the east.
+In the corner of the room on the ceiling is a large vampire bat who
+is obviously deranged and holding his nose.
+There is an exquisite jade figurine here.
+Dropped.
+Taken.
+Squeaky Room
+Mine Entrance
+You are in a large room, in the middle of which is a small shaft
+descending through the floor into darkness below.  To the west and
+the north are exits from this room.  Constructed over the top of the
+shaft is a metal framework to which a heavy iron chain is attached.
+At the end of the chain is a basket.
+You are in a narrow tunnel with large wooden beams running across
+the ceiling and around the walls.  A path from the south splits into
+paths running west and northeast.
+You are in a small non-descript room.  However, from the direction
+of a small descending staircase a foul odor can be detected.  To the
+east is a narrow path.
+>Dropped.
+The lamp is now on.
+You are in a small room which smells strongly of coal gas.
+There is a sapphire-encrusted bracelet here.
+Taken.
+Smelly Room
+You can see:  A torch.
+The lamp is now off.
+Taken.
+Wooden Tunnel
+Shaft Room
+You can see:  A basket.
+Mine Entrance
+Slide Room
+Cellar
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A glass bottle.
+  A knife.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A brick.
+The glass bottle contains:
+  A quantity of water.
+>Done.
+Done.
+Done.
+lamp:
+Dropped.
+torch:
+Dropped.
+screwdriver:
+Dropped.
+hand-held air pump:
+Dropped.
+>Taken.
+Taken.
+Taken.
+Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+You are in a circular room with passages off in eight directions.
+Your compass needle spins wildly, and you cannot get your bearings.
+Unfortunately, it is impossible to tell directions in here.
+Deep Canyon
+Round Room
+Unfortunately, it is impossible to tell directions in here.
+You have entered a cave with passages leading north and southeast.
+There are old engravings on the walls here.
+>The engravings were incised in the living rock of the cave wall by
+an unknown hand.  They depict, in symbolic form, the beliefs of the
+ancient peoples of Zork.  Skillfully interwoven with the bas reliefs
+are excerpts illustrating the major tenets expounded by the sacred
+texts of the religion of that time.  Unfortunately, a later age seems
+to have considered them blasphemous and just as skillfully excised them.
+This is a room which is bare on all sides.  There is an exit down.
+To the east is a great door made of stone.  Above the door, the
+following words are written:  "No man shall enter this room without
+solving this riddle--
+	What is tall as a house,
+	Round as a cup,
+	And all the king's horses can't draw it up?".
+There is a clap of thunder and the east door opens.
+This is a former broom closet.  The exits are to the east and west.
+There is a pearl necklace here with hundreds of large pearls.
+Taken.
+You are in a damp circular room, whose walls are made of brick and
+mortar.  The roof of this room is not visible, but there appear to be
+some etchings on the walls.  There is a passageway to the west.
+There is a wooden bucket here, three feet in diameter and three feet
+high.
+		o  b  o
+
+		A  G  I
+		 E   L
+
+		m  p  a
+You are now in the wooden bucket.
+Opened.
+>There is now a puddle in the middle of the wooden bucket.
+The bucket rises and comes to a stop.
+You are at the top of the well.  Well done.  There are etchings on
+the side of the well.  There is a small crack across the floor at the
+entrance to a room on the east, but it can be crossed easily.
+You are in the wooden bucket.
+The wooden bucket contains:
+  A quantity of water.
+You are on your own feet again.
+	        o  b  o
+	    r             z
+	 f   M  A  G  I  C    z
+	 c    W  E   L  L     y
+	    o             n
+	        m  p  a
+You are in a small square room, in the center of which is a large
+oblong table, no doubt set for afternoon tea.  It is clear from the
+objects on the table that the users were indeed mad.  In the eastern
+corner of this room is a small hole no more than four inches high.
+There are passageways leading away to the west and the northwest.
+There is a piece of cake where with the words "EAT ME" on it.
+There is a piece of cake with orange icing here.
+There is a piece of cake with red icing here.
+There is a piece of cake with blue (ecch) icing here.
+piece of "EAT ME" cake:
+Taken.
+piece of cake with orange icing:
+Taken.
+piece of cake with red icing:
+Taken.
+piece of cake with blue icing:
+Taken.
+Suddenly, the room appears to have become very large.
+You are in a large room, one half of which is depressed.  There is a
+large leak in the ceiling through which brown colored goop is
+falling.  The only exit from this room is to the west.
+A stoppered glass flask with skull-and-crossbones markings is here.
+The flask is filled with some clear liquid.
+The leak has submerged the depressed area in a pool of sewage.
+Taken.
+>The icing, now visible, says "EVAPORATE".
+The icing, now visible, says "EXPLODE".
+>The icing, now visible, says "ENLARGE".
+Dropped.
+The pool of water evaporates, revealing a tin of rare spices.
+Taken.
+You are in an enormous room, in the center of which are four wooden
+posts delineating a rectangular area, above which is what appears to
+be a wooden roof.  In fact, all objects in this room appear to be
+abnormally large.  To the east is a passageway.  There is a large
+chasm on the west and the northwest.
+>The room around you seems to be getting smaller.
+Dropped.
+You are in a room with a low ceiling which is circular in shape.
+There are exits to the east and southeast.
+There is a robot here.
+There is a green piece of paper here.
+Taken.
+	!!!! FROBOZZ MAGIC ROBOT COMPANY !!!!
+
+Hello, master!
+
+   I am a late-model robot, trained at MIT Tech to perform various
+simple housekeeping functions.
+
+Instructions for use:
+
+   To activate me, use the following formula--
+	TELL ROBOT, something to do (CR)
+   The comma is mandatory.
+   Command me as you will!
+
+Warranty:
+
+   No warranty is expressed or implied.
+
+At your service!
+Dropped.
+Done.
+You are in a large room full of assorted heavy machinery.  The room
+smells of burned resistors.  The room is noisy from the whirring
+sounds of the machines.  Along one wall of the room are three buttons
+which are, respectively, round, triangular, and square.  Naturally,
+above the buttons are instructions written in EBCDIC.  A large sign
+above all the buttons says in English:
+
+		    DANGER:  HIGH VOLTAGE
+
+There are exits to the west and the south.
+There is a robot here.
+>A dull thump is heard in the distance.
+Done.
+You are in a dingy closet adjacent to the machine room.  On one wall
+is a small sticker which reads:
+
+		Protected by
+		  FROBOZZ
+	     Magic Alarm Company
+	      (Hello, footpad!).
+There is a beautiful crystal sphere here.
+There is a robot here.
+As you reach for the sphere, an iron cage falls from the ceiling
+to entrap you.  To make matters worse, poisonous gas starts coming
+into the room.
+>The cage shakes and is hurled across the room.
+Taken.
+Machine Room
+Low Room
+You can see:  A green piece of paper.
+As you enter, your compass starts spinning wildly.
+Unfortunately, it is impossible to tell directions in here.
+Tea Room
+You can see:  A large oblong table.
+  A piece of cake with orange icing.
+>Top of Well
+You can see:  A wooden bucket.
+The wooden bucket contains:
+  A quantity of water.
+You are now in the wooden bucket.
+The bottle is now full of water.
+The bottle is already full.
+The bucket descends and comes to a stop.
+Bottom of Well
+You are in the wooden bucket.
+Closed.
+You are on your own feet again.
+Dropped.
+Pearl Room
+Riddle Room
+Engravings Cave
+You can see:  A wall with engravings.
+You are in a circular room with passages off in eight directions.
+There is a dented steel box here.
+>Opening the steel box reveals:
+  A fancy violin.
+Taken.
+East-West Passage
+Troll Room
+You can see:  A sword.
+Cellar
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A knife.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A screwdriver.
+  A hand-held air pump.
+  A brick.
+Done.
+Done.
+>Done.
+Done.
+lamp:
+Dropped.
+torch:
+Dropped.
+Saved.
+>Taken.
+Taken.
+Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+Deep Ravine
+Rocky Crawl
+You are in a room which looks like an Egyptian tomb.  There is an
+ascending staircase in the room as well as doors east and south.
+There is a solid gold coffin, used for the burial of Ramses II, here.
+Taken.
+Someone carrying a large bag is casually leaning against one of the
+walls here.  He does not speak, but it is clear from his aspect that
+the bag will be taken only over his dead body.
+You are in a large room with giant icicles hanging from the walls
+and ceiling.  There are passages to the north and east.
+A mass of ice fills the western half of the room.
+You are standing on a path beside a gently flowing stream.  The path
+travels to the north and the east.
+There is a coil of thin shiny wire here.
+Someone carrying a large bag is casually leaning against one of the
+walls here.  He does not speak, but it is clear from his aspect that
+the bag will be taken only over his dead body.
+Taken.
+Reservoir South
+Reservoir
+Reservoir North
+Atlantis Room
+Cave
+Mirror Room
+>There is a rumble from deep within the earth, and the room shakes.
+Narrow Crawlway
+Grail Room
+Temple
+You can see:  A tour guidebook.
+Altar
+You are in a forest, with trees in all directions around you.
+Forest
+You hear in the distance the chirping of a song bird.
+North of House
+Behind House
+Kitchen
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A knife.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A screwdriver.
+  A hand-held air pump.
+  A brick.
+Done.
+Dropped.
+Taken.
+>Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+Round Room
+You can see:  A steel box.
+You are in a high north-south passage, which forks to the northeast.
+You are in a large room with a ceiling which cannot be detected from
+the ground.  There is a narrow passage from east to west and a stone
+stairway leading upward.  The room is extremely noisy.  In fact, it
+is difficult to hear yourself think.
+There is a large platinum bar here.
+ECHO
+The acoustics of the room change subtly.
+>Taken.
+A chasm, evidently produced by an ancient river, runs through the
+cave here.  Passages lead off in all directions.
+You are in a small cave whose exits are on the south and northwest.
+There is a large shovel here.
+There is a hunk of bat guano here.
+Taken.
+Ancient Chasm
+Loud Room
+North-South Passage
+Round Room
+You can see:  A steel box.
+Deep Canyon
+Dam
+You can see:  A wrench.
+You are at the base of flood control dam #3, which looms above you
+and to the north.   The Frigid River is flowing by here.  Across the
+river are the white cliffs, which seem to form a giant wall stretching
+from north to south along the east shore of the river as it winds its
+way downstream.
+There is a folded pile of plastic here which has a small valve attached.
+A sharp stick, which appears to have been broken at one end, is here.
+The boat inflates and appears seaworthy.
+Dropped.
+>Done.
+You are now in the magic boat.
+You are on the Frigid River in the vicinity of the dam.  The river
+flows quietly here.  There is a landing on the west shore.
+You are in the magic boat.
+The magic boat contains:
+  A tan label.
+  A sharp broken stick.
+The river turns a corner here making it impossible to see the
+dam.  The white cliffs loom on the east bank, and large rocks
+prevent landing on the west.
+You are in the magic boat.
+The magic boat contains:
+  A tan label.
+  A sharp broken stick.
+The river descends here into a valley.  There is a narrow beach on
+the east below the cliffs, and there is some shore on the west which
+may be suitable.  In the distance a faint rumbling can be heard.
+You are in the magic boat.
+The magic boat contains:
+  A tan label.
+  A sharp broken stick.
+The river is running faster here, and the sound ahead appears to be
+that of rushing water.  On the west shore is a sandy beach.  A small
+area of beach can also be seen below the cliffs.
+You are in the magic boat.
+There is a red buoy here (probably a warning).
+The magic boat contains:
+  A tan label.
+  A sharp broken stick.
+Taken.
+Something seems funny about the feel of the buoy.
+You are on a large sandy beach at the shore of the river, which is
+flowing quickly by.  A path runs beside the river to the south here.
+You are in the magic boat.
+The magic boat contains:
+  A tan label.
+  A sharp broken stick.
+You are on your own feet again.
+Taken.
+Opening the red buoy reveals:
+  A large emerald.
+>>Taken.
+You seem to be digging a hole here.
+The hole is getting deeper, but that's about it.
+You are surrounded by a wall of sand on all sides.
+You can see a small statue in the sand.
+>Taken.
+Dropped.
+Dropped.
+You are on the shore of the river.  The river here seems somewhat
+treacherous.  A path travels from north to south here, the south end
+quickly turning around a sharp corner.
+You are at the top of Aragain Falls, an enormous waterfall with a
+drop of about 450 feet.  The only path here is on the north end.
+There is a man-sized barrel here which you could fit into.
+A beautiful rainbow can be seen over the falls and to the east.
+Suddenly, the rainbow appears to become solid and, I venture,
+walkable (I think the giveaway was the stairs and bannister).
+Dropped.
+You are on top of a rainbow (I bet you never thought you would walk
+on a rainbow), with a magnificent view of the falls.  The rainbow
+travels east-west here.
+You are on a small beach on the continuation of the Frigid River
+past the falls.  The beach is narrow due to the presence of the white
+cliffs.  The river canyon opens here, and sunlight shines in from
+above.  A rainbow crosses over the falls to the west, and a narrow path
+continues to the southeast.
+At the end of the rainbow is a pot of gold.
+Taken.
+You are beneath the walls of the river canyon, which may be climbable
+here.  There is a small stream here, which is the lesser part of the
+runoff of Aragain Falls.  To the north is a narrow path.
+You are on a ledge about halfway up the wall of the river canyon.
+You can see from here that the main flow from Aragain Falls twists
+along a passage which it is impossible to enter.  Below you is the
+canyon bottom.  Above you is more cliff, which still appears
+climbable.
+>You are at the top of the great canyon on its south wall. From here
+there is a marvelous view of the canyon and parts of the Frigid River
+upstream.  Across the canyon, the walls of the white cliffs still
+appear to loom far above.  Following the canyon upstream (north and
+northwest), Aragain Falls may be seen, complete with rainbow.
+Fortunately, my vision is better than average, and I can discern the
+top of flood control dam #3 far to the distant north.  To the
+west and south can be seen an immense forest, stretching for miles
+around.  It is possible to climb down into the canyon from here.
+You are in a forest, with trees in all directions around you.
+You are in a dimly lit forest, with large trees all around.  To the
+east, there appears to be sunlight.
+You hear in the distance the chirping of a song bird.
+You are facing the south side of a white house.  There is no door here,
+and all the windows are barred.
+Behind House
+Kitchen
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A knife.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A screwdriver.
+  A brick.
+  A wire coil.
+Done.
+Done.
+Done.
+>Done.
+lamp:
+Dropped.
+torch:
+Dropped.
+>Taken.
+Taken.
+Taken.
+Cellar
+Troll Room
+You can see:  A sword.
+You are in a maze of twisty little passages, all alike.
+You are in a maze of twisty little passages, all alike.
+You are in a maze of twisty little passages, all alike.
+You are in a maze of twisty little passages, all alike.
+Beside the skeleton is a rusty knife.
+The deceased adventurer's useless lantern is here.
+There is a set of skeleton keys here.
+A skeleton, probably the remains of a luckless adventurer, lies here.
+An old leather bag, bulging with coins, is here.
+Taken.
+Taken.
+You are in a maze of twisty little passages, all alike.
+You are in a maze of twisty little passages, all alike.
+You are in a maze of twisty little passages, all alike.
+You are in a small room near the maze.  There are twisty
+passages in the immediate vicinity.
+Above you is a grating locked with a skull-and-crossbones lock.
+>The grating is unlocked.
+Dropped.
+The grating opens.
+You are in a clearing, with a forest surrounding you on the west
+and south.
+There is a pile of leaves on the ground.
+Behind House
+Kitchen
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A screwdriver.
+  A brick.
+  A wire coil.
+Done.
+Kitchen
+Behind House
+>Clearing
+You can see:  A pile of leaves.
+Grating room
+You can see:  A set of skeleton keys.
+Maze
+You are in a maze of twisty little passages, all alike.
+Maze
+Maze
+You are in a maze of twisty little passages, all alike.
+You are in a maze of twisty little passages, all alike.
+You are in a room with an exit on the west side, and a staircase
+leading up.
+A cyclops, who looks prepared to eat horses (much less mere
+adventurers), blocks the staircase.  From his state of health
+and the bloodstains on the wall, you gather that he is not very
+friendly, though he likes people.
+The cyclops, hearing the name of his deadly nemesis, flees the room
+by knocking down the wall on the north side of the room.
+Treasure Room
+You can see:  A jewel-encrusted egg.
+The jewel-encrusted egg contains:
+  A clockwork canary.
+You hear a scream of anguish as you violate the robber's hideaway.
+Using passages unknown to you, he rushes to its defense.
+The thief gestures mysteriously, and the treasures in the room
+suddenly vanish.
+The thief stabs a deep cut in your upper arm.
+>The blow lands, making a shallow gash in the thief's arm.
+You are forced back and trip over your own feet, falling heavily to
+the floor.
+>You are still recovering from the last blow, so your attack is
+ineffective.
+You parry a lightning thrust, and the thief salutes you with a
+grim nod.
+>The thief is slashed on the arm, blood begins to trickle down.
+The thief rams the haft of his blade into your stomach, leaving you
+out of breath.
+>You are still recovering from the last blow, so your attack is
+ineffective.
+You dodge as the thief comes in low.
+>The haft of your blade knocks out the thief.
+>The unconscious thief cannot defend himself:  he dies.
+Almost as soon as the thief breathes his last, a cloud of
+sinister black smoke envelops him, and when the fog lifts, the
+carcass has disappeared.
+As the thief dies, the power of his magic decreases, and his
+treasures reappear:  A jewel-encrusted egg.
+>I can't see one here.
+>Taken.
+Taken.
+You are in the west end of a large temple.  On the south wall is an
+ancient inscription, probably a prayer in a long-forgotten language.
+The north wall is solid granite.  The entrance at the west end of the
+room is through huge marble pillars.
+There is a tour guidebook here.
+Taken.
+This is a large room, whose north wall is solid granite.  A number
+of discarded bags, which crumble at your touch, are scattered about
+on the floor.  There is an exit down and what appears to be a newly
+created passage to the east.
+You are in a small square room, in the middle of which is a recently
+created hole through which you can barely discern the floor some ten
+feet below.  It doesn't seem likely you could climb back up.  There
+are exits to the west and south.
+There is a piece of paper on the ground here.
+Taken.
+The paper is rather worn;  although the writing is barely legible
+(the author probably had only a used pencil), it is a very elegant
+copperplate.
+
+To Whom It May Concern:
+
+   I regret to report that the rumours regarding treasure contained
+in the chamber to which this passage leads have no basis in fact.
+Should you nevertheless be sufficiently foolhardy to enter, it will
+be quite impossible for you to exit.
+
+				Sincerely yours,
+				The Thief
+Dropped.
+You are in a small square room bounded to the north and west with
+marble walls and to the east and south with sandstone walls.
+It appears the thief was correct.
+>The wall slides forward and you follow it...
+The architecture of this region is getting complex, so that further
+descriptions will be diagrams of the immediate vicinity in a 3x3
+grid.  The walls here are rock, but of two different types - sandstone
+and marble.  The following notations will be used:
+			..  = current position (middle of grid)
+			MM  = marble wall
+			SS  = sandstone wall
+			??  = unknown (blocked by walls).
+       |MM MM ??|
+ West  |   .. SS| East
+       |SS    MM|
+Your position is as follows:
+       |      SS|
+ West  |SS .. MM| East
+       |        |
+Your position is as follows:
+       |SS    MM|
+ West  |   ..   | East
+       |SS      |
+Your position is as follows:
+       |?? SS   |
+ West  |MM ..   | East
+       |?? SS   |
+The wall slides forward and you follow it to the following position:
+       |MM      |
+ West  |MM ..   | East
+       |?? SS   |
+Your position is as follows:
+       |        |
+ West  |   ..   | East
+       |SS    SS|
+Your position is as follows:
+       |SS    MM|
+ West  |   ..   | East
+       |        |
+Your position is as follows:
+       |      SS|
+ West  |SS .. MM| East
+       |        |
+Your position is as follows:
+       |MM MM ??|
+ West  |   .. SS| East
+       |SS    MM|
+Your position is as follows:
+       |?? MM MM|
+ West  |MM ..   | East
+       |?? SS   |
+In the ceiling above you is a large circular opening.
+The wall slides forward and you follow it to the following position:
+       |MM      |
+ West  |MM ..   | East
+       |?? SS   |
+>The wall slides forward and you follow it to the following position:
+       |MM      |
+ West  |MM ..   | East
+       |?? SS   |
+Your position is as follows:
+       |      MM|
+ West  |   ..   | East
+       |SS      |
+Your position is as follows:
+       |   MM   |
+ West  |   ..   | East
+       |      SS|
+Your position is as follows:
+       |MM    SS|
+ West  |   .. MM| East
+       |   SS ??|
+The wall slides forward and you follow it to the following position:
+       |      MM|
+ West  |   .. SS| East
+       |SS SS ??|
+The center of the floor is noticeably depressed here.
+Nestled inside the niche is an engraved gold card.
+Taken.
+The wall slides forward and you follow it to the following position:
+       |      SS|
+ West  |SS ..   | East
+       |?? SS   |
+>The wall slides forward and you follow it to the following position:
+       |        |
+ West  |SS ..   | East
+       |MM    SS|
+Your position is as follows:
+       |      SS|
+ West  |   ..   | East
+       |   SS   |
+Your position is as follows:
+       |   SS   |
+ West  |   ..   | East
+       |SS    MM|
+Your position is as follows:
+       |SS    MM|
+ West  |   .. MM| East
+       |   MM ??|
+Your position is as follows:
+       |MM    MM|
+ West  |SS .. MM| East
+       |      MM|
+The wall slides forward and you follow it to the following position:
+       |?? MM   |
+ West  |SS ..   | East
+       |        |
+Your position is as follows:
+       |SS      |
+ West  |   ..   | East
+       |SS    MM|
+Your position is as follows:
+       |   SS   |
+ West  |   ..   | East
+       |   SS   |
+Your position is as follows:
+       |      SS|
+ West  |SS ..   | East
+       |MM    SS|
+Your position is as follows:
+       |        |
+ West  |   .. SS| East
+       |SS      |
+Your position is as follows:
+       |   MM   |
+ West  |   ..   | East
+       |      SS|
+Your position is as follows:
+       |MM    SS|
+ West  |   .. MM| East
+       |   SS ??|
+The wall slides forward and you follow it to the following position:
+       |      MM|
+ West  |   ..   | East
+       |   SS   |
+The center of the floor is noticeably depressed here.
+Your position is as follows:
+       |        |
+ West  |   ..   | East
+       |SS    SS|
+Your position is as follows:
+       |        |
+ West  |SS .. SS| East
+       |MM    SS|
+>The wall slides forward and you follow it to the following position:
+       |        |
+ West  |   .. SS| East
+       |   SS ??|
+Your position is as follows:
+       |      MM|
+ West  |   ..   | East
+       |      SS|
+The center of the floor is noticeably depressed here.
+Your position is as follows:
+       |   MM   |
+ West  |   ..   | East
+       |   SS   |
+The wall slides forward and you follow it to the following position:
+       |        |
+ West  |   ..   | East
+       |SS SS MM|
+Your position is as follows:
+       |        |
+ West  |   ..   | East
+       |   SS SS|
+Your position is as follows:
+       |      MM|
+ West  |   ..   | East
+       |        |
+The center of the floor is noticeably depressed here.
+Your position is as follows:
+       |MM    SS|
+ West  |   .. MM| East
+       |        |
+Your position is as follows:
+       |SS    SS|
+ West  |MM .. SS| East
+       |      MM|
+There is a ladder here, firmly attached to the east wall.
+Your position is as follows:
+       |?? MM ??|
+ West  |SS .. SS| East
+       |MM    SS|
+The wall slides forward and you follow it to the following position:
+       |MM MM ??|
+ West  |   .. SS| East
+       |   SS ??|
+Your position is as follows:
+       |?? MM MM|
+ West  |SS ..   | East
+       |MM    SS|
+Your position is as follows:
+       |SS      |
+ West  |MM .. SS| East
+       |      MM|
+There is a ladder here, firmly attached to the east wall.
+Your position is as follows:
+       |MM    SS|
+ West  |   .. MM| East
+       |        |
+Your position is as follows:
+       |      MM|
+ West  |   ..   | East
+       |        |
+The center of the floor is noticeably depressed here.
+Your position is as follows:
+       |   MM   |
+ West  |   ..   | East
+       |        |
+Your position is as follows:
+       |MM    MM|
+ West  |   .. MM| East
+       |      MM|
+>Your position is as follows:
+       |SS    MM|
+ West  |MM .. MM| East
+       |      MM|
+Your position is as follows:
+       |?? SS ??|
+ West  |SS .. MM| East
+       |MM    MM|
+The wall slides forward and you follow it to the following position:
+       |      SS|
+ West  |SS ..   | East
+       |?? MM   |
+Your position is as follows:
+       |MM MM ??|
+ West  |   .. SS| East
+       |SS      |
+Your position is as follows:
+       |?? MM MM|
+ West  |SS ..   | East
+       |?? SS   |
+The wall slides forward and you follow it to the following position:
+       |SS      |
+ West  |MM ..   | East
+       |?? SS MM|
+The wall slides forward and you follow it to the following position:
+       |MM      |
+ West  |   .. MM| East
+       |   SS ??|
+Your position is as follows:
+       |   MM   |
+ West  |   ..   | East
+       |      SS|
+Your position is as follows:
+       |        |
+ West  |   .. SS| East
+       |SS      |
+There is a ladder here, firmly attached to the east wall.
+Your position is as follows:
+       |      SS|
+ West  |SS ..   | East
+       |MM    SS|
+Your position is as follows:
+       |   SS   |
+ West  |   ..   | East
+       |   SS SS|
+Your position is as follows:
+       |SS      |
+ West  |   ..   | East
+       |SS SS MM|
+Your position is as follows:
+       |?? MM   |
+ West  |SS ..   | East
+       |        |
+>The wall slides forward and you follow it to the following position:
+       |      MM|
+ West  |SS ..   | East
+       |        |
+The center of the floor is noticeably depressed here.
+Your position is as follows:
+       |SS      |
+ West  |   ..   | East
+       |   SS SS|
+Your position is as follows:
+       |?? SS   |
+ West  |SS ..   | East
+       |MM    SS|
+The wall slides forward and you follow it to the following position:
+       |   SS   |
+ West  |   ..   | East
+       |SS      |
+Your position is as follows:
+       |SS    MM|
+ West  |   ..   | East
+       |        |
+The center of the floor is noticeably depressed here.
+Your position is as follows:
+       |MM      |
+ West  |SS .. MM| East
+       |        |
+The wall slides forward and you follow it to the following position:
+       |?? MM   |
+ West  |SS ..   | East
+       |        |
+Your position is as follows:
+       |SS      |
+ West  |   ..   | East
+       |SS      |
+Your position is as follows:
+       |?? SS   |
+ West  |SS ..   | East
+       |?? SS   |
+The wall slides forward and you follow it to the following position:
+       |   SS MM|
+ West  |   ..   | East
+       |SS      |
+>The wall slides forward and you follow it to the following position:
+       |   SS ??|
+ West  |   .. MM| East
+       |        |
+Your position is as follows:
+       |MM    SS|
+ West  |MM ..   | East
+       |MM      |
+Your position is as follows:
+       |?? MM ??|
+ West  |MM .. SS| East
+       |MM      |
+In the ceiling above you is a large circular opening.
+There is a ladder here, firmly attached to the east wall.
+With the help of the ladder, you exit the puzzle.
+Small Square Room
+You can see:  A note from the Thief.
+Treasure Room
+Cyclops Room
+You are in a long passage.  To the south is one entrance.  On the
+east there is an old wooden door with a large hole in it (about
+cyclops sized).
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A screwdriver.
+  A brick.
+  A wire coil.
+Done.
+Done.
+Dropped.
+>Kitchen
+Behind House
+North of House
+Forest
+The canary chirps, slightly off key, an aria from a forgotten opera.
+From out of the greenery flies a lovely song bird.  It perches on a
+limb just over your head and opens its beak to sing.  As it does so,
+a beautiful brass bauble drops from its mouth, bounces off the top
+of your head, and lands glimmering in the grass.  As the canary winds
+down, the song bird flies away.
+Taken.
+North of House
+Behind House
+Kitchen
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A tour guidebook.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A screwdriver.
+  A brick.
+  A wire coil.
+Done.
+>Done.
+knife:
+Dropped.
+lamp:
+Dropped.
+torch:
+Dropped.
+>Taken.
+Taken.
+Taken.
+Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+Deep Ravine
+Reservoir South
+Reservoir
+Reservoir North
+Atlantis Room
+Cave
+Mirror Room
+Cold Passage
+Slide Room
+Mine Entrance
+Shaft Room
+You can see:  A basket.
+>Done.
+Wooden Tunnel
+You are in a non-descript part of a coal mine.
+You are in a non-descript part of a coal mine.
+You are in a non-descript part of a coal mine.
+You are in a non-descript part of a coal mine.
+You are in a very small room.  In the corner is a rickety wooden
+ladder, leading downward.  It might be safe to descend.  There is
+also a staircase leading upward.
+You are in a rather wide room.  On one side is the bottom of a
+narrow wooden ladder.  To the northeast and the south are passages
+leaving the room.
+Dead end.
+There is a small heap of coal here.
+Taken.
+Ladder Bottom
+Ladder Top
+Coal Mine
+Coal Mine
+Wooden Tunnel
+Shaft Room
+You can see:  A basket.
+The basket contains:
+  A screwdriver.
+>Done.
+The lamp is now on.
+Done.
+The basket is lowered to the bottom of the shaft.
+Wooden Tunnel
+Coal Mine
+Coal Mine
+Coal Mine
+>Coal Mine
+Ladder Top
+Ladder Bottom
+You are in a long and narrow passage, which is cluttered with broken
+timbers.  A wide passage comes from the north and turns at the
+southwest corner of the room into a very narrow passageway.
+There is a pile of wooden timbers here.
+torch:
+Dropped.
+You are in a small square room which is at the bottom of a long
+shaft.  To the east is a passageway and to the northeast a very narrow
+passage.  In the shaft can be seen a heavy iron chain.
+At the end of the chain is a basket.
+The basket contains:
+  A small pile of coal.
+  A lamp.
+  A screwdriver.
+Taken.
+Taken.
+Taken.
+You are in large room which seems to be air conditioned.  In one
+corner there is a machine (?) which is shaped somewhat like a clothes
+dryer.  On the 'panel' there is a switch which is labelled in an
+obscure dialect of Swahili.  Fortunately, I know this dialect, and the
+label translates to 'START'.  The switch does not appear to be manip-
+ulable by any human hand (unless the fingers are about 1/16 by 1/4
+inch).  On the front of the machine is a large lid, which is closed.
+The lid opens.
+Done.
+>The lid closes.
+The machine comes to life (figuratively) with a dazzling display
+of colored lights and bizarre noises.  After a few moments, the
+excitement fades.
+The lid opens.
+Taken.
+Dropped.
+Lower Shaft
+You can see:  A basket.
+>Done.
+Done.
+Timber Room
+You can see:  A torch.
+  A pile of timbers.
+Taken.
+Ladder Bottom
+Ladder Top
+Coal Mine
+Coal Mine
+Wooden Tunnel
+Shaft Room
+>The basket is raised to the top of the shaft.
+Taken.
+The lamp is now off.
+Taken.
+Mine Entrance
+Slide Room
+Cellar
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A knife.
+  A tour guidebook.
+  A newspaper.
+  A matchbook.
+  A leaflet.
+  A brick.
+  A wire coil.
+Done.
+>lamp:
+Dropped.
+torch:
+Dropped.
+>Taken.
+Taken.
+Taken.
+Taken.
+Taken.
+Taken.
+Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+Deep Ravine
+Rocky Crawl
+Egyptian Room
+Glacier Room
+You can see:  A glacier.
+>The lamp is now on.
+The torch hits the glacier and explodes into a great ball of flame,
+devouring the glacier.  The water from the melting glacier rushes
+downstream, carrying the torch with it.  In place of the glacier,
+there is a passageway leading west.
+You are in a small chamber behind the remains of the great glacier.
+To the south and west are small passageways.
+On the floor lies a moby ruby.
+Taken.
+You are in a small room, whose walls are formed by an old lava flow.
+There are exits here to the west and the south.
+You are at the bottom of a large dormant volcano.  High above you
+light may be seen entering from the cone of the volcano.  The only
+exit here is to the north.
+There is a very large and extremely heavy wicker basket with a cloth
+bag here.  Inside the basket is a metal receptacle of some kind.
+Attached to the basket on the outside is a piece of wire.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+You are now in the basket.
+Opened.
+>Done.
+One of the matches starts to burn.
+The tour guidebook burns inside the receptacle.
+The balloon inflates as it fills with hot air.
+The match has gone out.
+Time passes...
+The balloon slowly rises from the ground.
+You are about one hundred feet above the bottom of the volcano.  The
+top of the volcano is clearly visible here.
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+Time passes...
+The balloon ascends.
+You are about two hundred feet above the volcano floor.  Looming
+above is the rim of the volcano.  There is a small ledge on the
+west side.
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+You are on a narrow ledge overlooking the inside of an old dormant
+volcano.  This ledge appears to be about in the middle between the
+floor below and the rim above.  There is an exit here to the south.
+You are in the basket.
+There is a small hook attached to the rock here.
+On the floor is a gold zorkmid coin (a valuable collector's item).
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+>You are on your own feet again.
+The ballon is fastened to the hook.
+Taken.
+You are in a room which must have been a large library, probably
+for the royal family.  All of the shelves appear to have been gnawed
+to pieces by unfriendly gnomes.  To the north is an exit.
+There is a blue book here.
+There is a green book here.
+There is a purple book here.
+There is a white book here.
+Opening the purple book reveals:
+  A stamp.
+Taken.
+Narrow Ledge
+You can see:  A basket.
+  A hook.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+You are now in the basket.
+>The wire falls off the hook.
+Time passes...
+The balloon leaves the ledge.
+Volcano near small ledge
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+Time passes...
+The balloon ascends.
+You are high above the floor of the volcano.  From here the rim of
+the volcano looks very narrow, and you are quite near it.  To the
+east is what appears to be a viewing ledge, too thin to land on.
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+Time passes...
+The balloon ascends.
+You are near the rim of the volcano, which is only about fifteen feet
+across.  To the west, there is a place to land with a wide ledge.
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+You are on a wide ledge high into the volcano.  The rim of the
+volcano is about 200 feet above, and there is a precipitous drop
+below to the floor.
+There is a small door to the south.
+You are in the basket.
+There is a small hook attached to the rock here.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+You are on your own feet again.
+The ballon is fastened to the hook.
+You are in a dusty old room which is virtually featureless, except
+for an exit on the north side.
+Imbedded in the far wall is a rusty old box.  It appears that
+the box is somewhat damaged, since an oblong hole has been
+chipped out of the front of it.
+>Done.
+Done.
+One of the matches starts to burn.
+The wire starts to burn.
+The match has gone out.
+>Wide ledge
+You can see:  A basket.
+  A hook.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+There is an explosion nearby.
+Dusty Room
+You can see:  A box.
+The box contains:
+  A card.
+  A crown.
+Taken.
+Warning:
+   This room was constructed over very weak rock strata.  Detonation
+of exposives in this room is strictly prohibited!
+			Frobozz Magic Safe Company
+			per M. Agrippa, foreman
+Taken.
+Wide ledge
+You can see:  A basket.
+  A hook.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+You may recall your recent explosion.  Well, probably as a result of
+that, you hear an ominous rumbling, as if one of the rooms in the
+dungeon has collapsed.
+You are now in the basket.
+The wire falls off the hook.
+Closed.
+Time passes...
+The balloon leaves the ledge.
+Volcano near wide ledge
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+Time passes...
+The balloon descends.
+Volcano near viewing ledge
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+The ledge collapses, giving you a narrow escape.
+Time passes...
+The balloon descends.
+Volcano near small ledge
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+>Time passes...
+The balloon descends.
+Volcano Core
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+Time passes...
+The balloon has landed.
+Volcano Bottom
+You are in the basket.
+The basket contains:
+  A receptacle.
+  A cloth bag.
+  A braided wire.
+  A blue label.
+You are on your own feet again.
+Dropped.
+Lava Room
+Ruby Room
+Glacier Room
+Stream View
+You can see:  A burned out ivory torch.
+Taken.
+Reservoir South
+Deep Ravine
+East-West Passage
+Troll Room
+You can see:  A sword.
+Cellar
+Living Room
+You can see:  A brown sack.
+  A lunch.
+  A trophy case.
+  A knife.
+  A newspaper.
+  A leaflet.
+The lamp is now off.
+>Done.
+Done.
+Done.
+Done.
+>Done.
+Closed.
+Dropped.
+The lamp is now on.
+Cellar
+Troll Room
+You can see:  A sword.
+East-West Passage
+Round Room
+Grail Room
+Narrow Crawlway
+Cave
+Entrance to Hades
+You can see:  A bell.
+  A book.
+  A pair of candles.
+  A pile of corpses.
+You have entered the land of the living dead, a large desolate
+room.  Although it is apparently uninhabited, you can hear the
+sounds of thousands of lost souls weeping and moaning.  In
+the east corner are stacked the remains of dozens of previous
+adventurers who were less fortunate than yourself.  To the east
+is an ornate passage, apparently recently constructed.
+You are in the Tomb of the Unknown Implementer.  A hollow voice
+says, "That's not a bug, it's a feature!"
+In the north wall of the room is the Crypt of the Implementers.  It
+is made of the finest marble and is apparently large enough for four
+headless corpses.  The crypt is closed.  Above the entrance is the
+cryptic inscription:
+
+		"Feel Free".
+There are four heads here, mounted securely on poles.
+There is a large pile of empty Coke bottles here, evidently produced
+by the implementers during their long struggle to win totally.
+There is a gigantic pile of line-printer output here.  Although the
+paper once contained useful information, almost nothing can be
+distinguished now.
+There is a piece of cake with orange icing here.
+>Time passes...
+Time passes...
+Time passes...
+Time passes...
+Time passes...
+Time passes...
+Suddenly a sinister, wraithlike figure, cloaked and hooded, appears
+seeming to float in the air before you.  In a low, almost inaudible
+voice he says, "I welcome you to the ranks of the chosen of Zork.  You
+have persisted through many trials and tests and have overcome them
+all.  One such as yourself is fit to join even the implementers!"
+He then raises his oaken staff and, chuckling, drifts away like a
+wisp of smoke, his laughter fading in the distance.
+The door of the crypt is extremely heavy, but it opens easily.
+Though large and esthetically pleasing, the crypt is empty;  the
+sarcophagi, bodies, and rich treasures to be expected in a tomb of
+this magnificence are missing.  Inscribed on the wall is the motto of
+the implementers, "Feel Free".  There is a door leading out of the
+crypt to the south.  The door is open.
+The crypt is closed.
+The lamp is now off.
+It is now pitch black.
+>Time passes...
+Suddenly, as you wait in the dark, you begin to feel somewhat
+disoriented.  The feeling passes, but something seems different.
+As you regain your composure, the cloaked figure appears before you
+and says, "You are now ready to face the ultimate challenge of
+Zork.  Should you wish to do this somewhat more quickly in the
+future, you will be given a magic phrase which will at any time
+transport you by magic to this point.  To select the phrase, say
+	INCANT, <word>
+and you will be told your own magic phrase to use by saying
+	INCANT, <phrase>
+Good luck, and choose wisely!"
+You are standing at the top of a flight of stairs that lead down to
+a passage below.  Dim light, as from torches, can be seen in the
+passage.  Behind you the stairs lead into untouched rock.
+Time passes...
+Time passes...
+>You are standing near one end of a long dimly lit hall.  To the
+south, stone stairs ascend.  To the north, the corridor is illum-
+inated by torches set high in the wall, out of reach.  On one wall
+is a red button.
+You are in a small room, with narrow passages exiting to the north
+and south.  A narrow red beam of light crosses the room at the north
+end, inches above the floor.
+Dropped.
+Stone Room
+The button becomes depressed.
+Small Room
+You can see:  A sword.
+Taken.
+You are in part of the long hallway.  The east and west walls are
+dressed stone.  In the center of the hall is a shallow stone channel.
+In the center of the room the channel widens into a large hole around
+which is engraved a compass rose.
+A passage enters from the south.
+A large mirror fills the north side of the hallway.
+The mirror is mounted on a panel which has been opened outward.
+You are inside a rectangular box of wood whose structure is rather
+complicated.  Four sides and the roof are filled in, and the floor
+is open.
+   As you face the side opposite the entrance, two short sides of
+carved and polished wood are to your left and right.  The left panel
+is mahogany, the right pine.  The wall you face is red on its left
+half and black on its right.  On the entrance side, the wall is white
+opposite the red part of the wall it faces, and yellow opposite the
+black section.  The painted walls are at least twice the length of
+the unpainted ones.  The ceiling is painted blue.
+   In the floor is a stone channel about six inches wide and a foot
+deep.  The channel is oriented in a north-south direction.  In the
+exact center of the room the channel widens into a circular
+depression perhaps two feet wide.  Incised in the stone around this
+area is a compass rose.
+   Running from one short wall to the other at about waist height
+is a wooden bar, carefully carved and drilled.  This bar is pierced
+in two places.  The first hole is in the center of the bar (and thus
+in the center of the room).  The second is at the left end of the room
+(as you face opposite the entrance).  Through each hole runs a wooden
+pole.
+   The pole at the left end of the bar is short, extending about a
+foot above the bar, and ends in a hand grip.  The pole has been
+dropped into a hole carved in the stone floor.
+   The long pole at the center of the bar extends from the ceiling
+through the bar to the circular area in the stone channel.  The
+bottom end of this pole has a T-bar a bit less than two feet long
+attached to it.  On the T-bar is carved an arrow.  The arrow and
+T-bar are pointing west.
+The pole is now slightly above the floor.
+>The structure rotates clockwise.
+The arrow on the compass rose now indicates northwest.
+The mirror quietly swings shut.
+The structure rotates clockwise.
+The arrow on the compass rose now indicates north.
+The pole is lowered into the channel.
+The structure slides north and stops over another compass rose.
+>The structure slides north and stops over another compass rose.
+You sword has begun to glow very brightly.
+The structure slides north and stops over another compass rose.
+Your sword is no longer glowing.
+The pole is now slightly above the floor.
+The structure rotates clockwise.
+The arrow on the compass rose now indicates northeast.
+>The structure rotates clockwise.
+The arrow on the compass rose now indicates east.
+The structure rotates clockwise.
+The arrow on the compass rose now indicates southeast.
+The structure rotates clockwise.
+The arrow on the compass rose now indicates south.
+The pine wall swings open.
+As you leave, the door swings shut.
+You are in a north-south hallway which ends in a large wooden door.
+The south side of the room is divided by a wooden wall into small
+hallways to the southeast and southwest.
+The wooden door has a barred panel in it at about head height.  The
+panel is closed, and the door is closed.
+The knock reverberates along the hall.  For a time it seems there
+will be no answer.  Then you hear someone unlatching the small wooden
+panel.  Through the bars of the great door, the wrinkled face of an
+old man appears.  He gazes down at you and intones as follows:
+   "I am the master of the dungeon, whose task it is to insure
+that none but the most scholarly and masterful adventurers are
+admitted into the secret realms of the dungeon.  To ascertain whether
+you meet the stringent requirements laid down by the Great
+Implementers, I will ask three questions which should be easy for
+one of your reputed excellence to answer.  You have undoubtedly
+discovered the answers during your travels through the dungeon.
+Should you answer each of these questions correctly within five
+attempts, then I am obliged to acknowledge your skill and daring and
+admit you to these regions.
+   "All answers should be in the form 'ANSWER, <answer>'."
+The booming voice asks:
+"What object is of use in determining the function of the iced cakes?"
+>The dungeon master says, "Excellent."
+The booming voice asks:
+"What object in the dungeon is haunted?"
+>The dungeon master says, "Excellent."
+The booming voice asks:
+"Beside the Temple, to which room is it possible to go from the Altar?"
+>The dungeon master says, "Excellent."
+The dungeon master, obviously pleased, says, "You are indeed a
+master of lore.  I am proud to be at your service."  The massive
+wooden door swings open, and the master motions for you to enter.
+>You are in a narrow north-south corridor.  At the south end is a door
+and at the north end is an east-west corridor.  The door is open.
+The dungeon master is quietly leaning on his staff here.
+The dungeon master says, "I will follow."
+You are in an east-west corridor which turns north at its eastern
+and western ends.  The walls of the corridor are marble.  An
+additional passage leads south at the center of the corridor.
+The dungeon master follows you.
+You are in a corridor with polished marble walls.  The corridor
+widens into larger areas as it turns west at its northern and
+southern ends.
+The dungeon master follows you.
+You are in a large east-west corridor which opens out to a northern
+parapet at its center.  You can see flames and smoke as you peer
+towards the parapet.  The corridor turns south at its east and west
+ends, and due south is a massive wooden door.  In the door is a small
+window barred with iron.  The door is closed.
+The dungeon master follows you.
+You are standing behind a stone retaining wall which rims a large
+parapet overlooking a fiery pit.  It is difficult to see through the
+smoke and flame which fills the pit, but it seems to be more or less
+bottomless.  It also extends upwards out of sight.  The pit itself
+is of roughly dressed stone and is circular in shape.  It is about
+two hundred feet in diameter.  The flames generate considerable heat,
+so it is rather uncomfortable standing here.
+   There is an object here which looks like a sundial.  On it are
+an indicator arrow and (in the center) a large button.  On the face
+of the dial are numbers "one" through "eight".  The indicator points
+to the number "one".
+The dungeon master follows you.
+The dungeon master says, "I will stay."
+The dial now points to "four".
+The button depresses with a slight click and pops back.
+North Corridor
+>The wooden door opens.
+You are in a featureless prison cell.  You can see the east-west
+corridor outside the open wooden door in front of you.
+Behind you is a bronze door which seems to be closed.
+The button depresses with a slight click and pops back.
+The cell door is now closed.
+The bronze door opens.
+On the other side of the door is a narrow passage which opens out
+into a larger area.
+You are in a room of large size, richly appointed and decorated
+in a style that bespeaks exquisite taste.  To judge from its
+contents, it is the ultimate storehouse of the treasures of Zork.
+   There are chests here containing precious jewels, mountains of
+zorkmids, rare paintings, ancient statuary, and beguiling curios.
+   In one corner of the room is a bookcase boasting such volumes
+as "The History of the Great Underground Empire", "The Lives of
+the Twelve Flatheads", "The Wisdom of the Implementers", and
+other informative and inspiring works.
+   On one wall is a completely annotated map of the Dungeon of
+Zork, showing points of interest and various troves of treasure,
+and indicating the locations of several superior scenic views.
+   On the desk at the far end of the room may be found stock
+certificates representing a controlling interest in FrobozzCo
+International, the multinational conglomerate and parent company
+of the Frobozz Magic Boat Co., etc.
+   As you gleefully examine your new-found riches, the dungeon
+master himself materializes beside you and says, "Now that you have
+solved all the mysteries of the dungeon, it is time for you to assume
+your rightfully-earned place in the scheme of things.  Long have I
+waited for one capable of releasing me from my burden!"  He taps you
+lightly on the head with his staff and mumbles a few well-chosen spells.
+You feel yourself changing, growing older and more stooped.  For a
+moment there are two identical mages staring at each other among the
+treasures, then you watch as your counterpart dissolves into a mist
+and disappears, a sardonic grin on his face.
+Your score in the endgame is 100 [total of 100 points], in 781 moves.
+This gives you the rank of Dungeon Master.
+The game is over.
