@@ -1,30 +1,74 @@
 ```
-Welcome to Dungeon.			This version created 11-MAR-91.
-You are in an open field west of a big white house with a boarded
-front door.
+Welcome to Dungeon.        This version created 11-MAR-91.
+You are in an open field west of a big white house with a boarded front door.
 There is a small mailbox here.
 >
 ```
-# DUNGEON (Zork I)
 
-Public Domain source code to the original DUNGEON game (Zork I). Released to the PD by Infocom. Includes 
-source files, headers, and information.
+# DUNGEON (AKA Zork)
 
+**Public Domain Source Code for the Mainframe Game "Dungeon"**
+
+This repository contains the Public Domain source code for *Dungeon*, the mainframe version of the game that served as the precursor to Infocom's commercial *Zork* trilogy.
+This codebase is a C port derived from the FORTRAN source of **Zork 2.6**.
+
+
+## Installation
+
+### Fedora Linux
+
+This package is available in the official Fedora Linux repositories.
+You can install it directly via the command-line:
+
+```bash
+sudo dnf install zork
 ```
-$ make
+
+### Building from Source
+
+To build the game from the source files in this repository:
+
+```bash
+make
 ```
 
-## History of the C Implementation of Dungeon
 
-This version of dungeon has been modified from FORTRAN to C.  The
-original was written in DEC FORTRAN, translated from MDL.  It was then
-translated to f77 for UN*X systems, from which it was translated to C.
-The C translation was done with the help of f2c, the FORTRAN to C
-translator written by David Gay (AT&T Bell Labs), Stu Feldman
-(Bellcore), Mark Maimone (Carnegie-Mellon University), and Norm
-Schryer (AT&T Bell Labs).
+## Modern Maintainership & Philosophy (2013-12 to present)
 
-I. From the original documentation...
+**Current Maintainers:**
+
+* Shane Thomas ([@devshane](https://github.com/devshane))
+* Jan Drögehoff ([@Jan200101](https://github.com/Jan200101))
+* Justin Wheeler ([@justwheel](https://github.com/justwheel))
+
+**Project Philosophy:**
+
+This project utilizes the FORTRAN source of *Dungeon* (Zork 2.6) as its foundation.
+The primary design goal is code preservation.
+We aim to maintain the logic and behavior of the game as accurately as possible while updating the codebase to compile and run on modern C compilers and operating systems.
+
+
+## History of the Implementation
+
+This version of *Dungeon* has been modified from FORTRAN to C.
+The historical lineage of this code is as follows:
+
+1. **Original Development (MDL)**:
+   The original game (initially titled *Zork*) was written in the MDL programming language (MUDDLE) at the MIT Laboratory for Computer Science.
+2. **PDP-11 Translation (FORTRAN)**:
+   Bob Supnik translated the MDL source into DEC FORTRAN for the PDP-11, renaming the game *Dungeon*.
+3. **UNIX Port (f77)**:
+   The FORTRAN version was subsequently ported to `f77` for UNIX systems.
+4. **C Translation**:
+   The C translation was generated from the `f77` version using `f2c`.
+   `f2c` is a FORTRAN-to-C translator written by David Gay (AT&T Bell Labs), Stu Feldman (Bellcore), Mark Maimone (Carnegie-Mellon University), and Norm Schryer (AT&T Bell Labs).
+
+*Note on Zork I:*
+While often conflated, *Dungeon* differs from *Zork I*.
+*Zork I* is a microcomputer adaptation comprising approximately one-third of the original mainframe game's map and puzzles.
+*Dungeon* represents the more complete, albeit earlier, mainframe experience.
+
+### I. From original game documentation
 
 To: Dungeon Players
 From: "The Translator"
@@ -58,72 +102,32 @@ ZORK in the September, 1980 issue of the RT-11 SIG newsletter:
 ZORK(tm) is a trademark of Infocom, Inc.  It is available for several
 popular personal computers as well as for the PDP-ll.
 
+### II. DEC FORTRAN to f77 Conversion (1981-11-17)
 
-## Summary
+The conversion from DEC FORTRAN to Unix f77 was done by **Randy Dietrich, Lynn Cochran and Sig Peterson**.
+Much hacking was done to get it to fit in the limited address space of a PDP-11/44 (split I/D).
+Suffice it to say that by leaving out the debugging package and not linking in the f77 i/o library, they managed to get it to run.
 
-   Welcome to Dungeon!
+### III. PDP to VAX (1985-12)
 
-   Dungeon is a game of adventure, danger, and low cunning.  In it
-you will explore some of the most amazing territory ever seen by mortal
-man.  Hardened adventurers have run screaming from the terrors contained
-within.
+Based on the work of Randy, Lynn and Sig, **Bill Randle** folded in the full save/restore functions and the game debugging package (gdt) into the PDP version to create a Vax/Unix version.
+This version also uses f77 i/o, thus eliminating the extra speak and listen processes needed on the PDP.
 
-   In Dungeon, the intrepid explorer delves into the forgotten secrets
-of a lost labyrinth deep in the bowels of the earth, searching for
-vast treasures long hidden from prying eyes, treasures guarded by
-fearsome monsters and diabolical traps!
+### IV. Cleanup I (1986-12-11)
 
-   No DECsystem should be without one!
+**John Gilmore** (hoptoad!gnu) cleaned up the source files by moving most of the common declarations into include files and added comments from the original (_FORTRAN or MDL?_) source.
+His efforts are greatly appreciated.
 
-   Dungeon was created at the Programming Technology Division of the MIT
-Laboratory for Computer Science by Tim Anderson, Marc Blank, Bruce
-Daniels, and Dave Lebling.  It was inspired by the Adventure game of
-Crowther and Woods, and the Dungeons and Dragons game of Gygax
-and Arneson.  The original version was written in MDL (alias MUDDLE).
-The current version was translated from MDL into FORTRAN IV by
-a somewhat paranoid DEC engineer who prefers to remain anonymous.
+### V. Cleanup II (1987-02-09)
 
-   On-line information may be obtained with the commands HELP and INFO.
+**Bill Randle** added the PDP dependencies back into the Vax source files with `#ifdef`s in order to have just one set of sources.
+Previously, there were two sets of source: one for the PDP and one for the Vax.
+In addition, a shell escape of the form `!cmd` was added and the wizard can enter the gdt without having to recompile the source.
+Finally, a man page was generated, based on the `dungeon.doc` file.
 
-II. DEC FORTRAN to f77 Conversion (17-nov-81)
+### VI. f77 to C (1991-03-11)
 
-The conversion from DEC FORTRAN to Unix f77 was done by Randy
-Dietrich, Lynn Cochran and Sig Peterson.  Much hacking was done to get
-it to fit in the limited address space of a PDP-11/44 (split I/D).
-Suffice it to say that by leaving out the debugging package and not
-linking in the f77 i/o library they managed to get it to run.
-
-III. PDP to VAX (dec-85)
-
-Based on the work of Randy, Lynn and Sig, Bill Randle folded in the
-full save/restore functions and the game debugging package (gdt) into
-the pdp version to create a Vax/Unix version.  This version also uses
-f77 i/o, thus eliminating the extra speak and listen processes needed
-on the pdp.
-
-IV. Cleanup I (11-dec-86)
-
-John Gilmore (hoptoad!gnu) cleaned up the source files by moving
-most of the common declarations into include files and added
-comments from the original (FORTRAN or MDL?) source.  His efforts
-are greatly appreciated.
-
-V. Cleanup II (9-feb-87)
-
-Bill Randle (billr@tekred.tek.com) added the pdp dependencies back
-into the Vax source files with #ifdefs in order to have just one
-set of sources.  Previously, there were two sets of source: one for
-the pdp and one for the Vax.  In addition, a shell escape of the
-form !cmd was added and the wizard can enter the gdt without having
-to recompile the source.  Finally, a man page was generated, based
-on the dungeon.doc file.
-
-VI. f77 to C (11-mar-91)
-
-Ian Lance Taylor (ian@airs.com or uunet!airs!ian) used the f2c
-translator to generate C source code.  The resulting code was modified
-to remove the FORTRAN I/O library, to add simple more processing, and
-to change the format of the database file.  Andre Srinivasan
-(andre@cs.pitt.edu) help test it.  Jonathan Mark
-(uunet!microsoft!jonm) made it work under MS-DOS and Microsoft C.
-
+**Ian Lance Taylor** used the `f2c` translator to generate C source code.
+The resulting code was modified to remove the FORTRAN I/O library, to add simple more processing, and to change the format of the database file.
+**Andre Srinivasan** helped test it.
+**Jonathan Mark** made it work under MS-DOS and Microsoft C.
