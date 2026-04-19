@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        cc: [gcc, clang]
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Restore compiler cache
+        uses: actions/cache@v5
+        with:
+          path: ~/.cache/ccache
+          key: ccache-${{ matrix.cc }}-${{ hashFiles('*.c', '*.h', 'Makefile') }}
+          restore-keys: |
+            ccache-${{ matrix.cc }}-
+
+      - name: Install dependencies
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq libncurses-dev ccache
+
+      - name: Build
+        run: |
+          ccache --zero-stats
+          make clean
+          make CC="ccache ${{ matrix.cc }}" LIBS="-lncurses" -j$(nproc)
+          ccache --show-stats
+
+      - name: Verify binary
+        run: test -x ./zork
+
+      - name: Smoke test
+        run: |
+          output=$(printf "LOOK\nQUIT\nY\n" | timeout 10 ./zork 2>&1)
+          echo "$output"
+          echo "--- Verifying expected output ---"
+          echo "$output" | grep -q "Welcome to Dungeon"
+          echo "$output" | grep -q "white house"
+          echo "$output" | grep -q "mailbox"
+          echo "$output" | grep -q "game is over"
+          echo "--- Smoke test passed ---"
