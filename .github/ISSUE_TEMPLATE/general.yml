@@ -1,0 +1,44 @@
+---
+name: General Issue
+description: Use this template for any issue that does not fit within another template.
+labels: ["needs investigation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome to the Zork issue tracker!
+        This form is designed to help the maintainers process new issues quickly and expediently. Using this template helps us understand your request and what you would like to see as an ideal outcome.
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: In one sentence, describe your bug report, suggestion, or task.
+      placeholder: e.g., Fix format string type mismatch in database error messages.
+    validations:
+      required: true
+
+  - type: textarea
+    id: background
+    attributes:
+      label: Background
+      description: Give context or background needed to understand this issue. Preferably between two to five sentences. This helps us understand the "why".
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Describe the necessary steps to satisfactorily resolve this issue. It is preferred to write this as a step-by-step list. However, you can also describe the work needed in two to five sentences. This helps us understand the "how".
+    validations:
+      required: true
+
+  - type: input
+    id: outcome
+    attributes:
+      label: Outcome
+      description: In one sentence, describe the expected outcome or impact of resolving this issue.
+      placeholder: e.g., The codebase compiles without format string warnings on all platforms.
+    validations:
+      required: true
